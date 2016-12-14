@@ -2,9 +2,10 @@
 
 Here I have gathered numerous Information Security resources from the website: www.Peerlyst.com.
 
-1. [How to Develop an Enterprise Secure Coding Program](https://www.peerlyst.com/posts/how-to-clean-out-golden-tickets-after-a-succesful-attack-on-your-active-directory-guurhart) By Michael Ball 
-2. [How to clean out golden tickets after a successful attack on your active directory] (https://www.peerlyst.com/posts/improper-session-termination-leading-to-potential-account-takeover-ankit-giri) By Guurhart
-https://www.peerlyst.com/posts/security-automation-best-practices-a-free-ebook-gwen-betts?trk=search_page_search_result
+1. [How to Develop an Enterprise Secure Coding Program](https://www.peerlyst.com/posts/how-to-develop-an-enterprise-secure-coding-program-michael-ball) By Michael Ball 
+2. [How to clean out golden tickets after a successful attack on your active directory](https://www.peerlyst.com/posts/how-to-clean-out-golden-tickets-after-a-succesful-attack-on-your-active-directory-guurhart) By Guurhart
+3. [Improper Session Termination Leading to Potential Account](https://www.peerlyst.com/posts/improper-session-termination-leading-to-potential-account-takeover-ankit-giri) 
+4. [Security Automation Best Practices - A Free eBook](https://www.peerlyst.com/posts/security-automation-best-practices-a-free-ebook-gwen-betts)
 https://www.peerlyst.com/posts/a-collection-of-links-about-transitioning-into-infosec-or-starting-an-infosec-career-and-making-it-peerlyst?trk=search_page_search_result
 https://www.peerlyst.com/posts/metasploit-quick-tips-for-security-professionals-abhinav-singh
 https://www.peerlyst.com/posts/do-you-want-to-work-in-infosec-or-win-a-nobel-prize-for-literature-kris-rides
