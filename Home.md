@@ -2,9 +2,9 @@
 
 Here I have gathered numerous Information Security resources from the website: www.Peerlyst.com.
 
-1) [How to Develop an Enterprise Secure Coding Program](https://www.peerlyst.com/posts/how-to-clean-out-golden-tickets-after-a-succesful-attack-on-your-active-directory-guurhart) By Michael Ball 
-2) [How to clean out golden tickets after a successful attack on your active directory] (https://www.peerlyst.com/posts/improper-session-termination-leading-to-potential-account-takeover-ankit-giri) By Guurhart
-3) https://www.peerlyst.com/posts/security-automation-best-practices-a-free-ebook-gwen-betts?trk=search_page_search_result
+1. [How to Develop an Enterprise Secure Coding Program](https://www.peerlyst.com/posts/how-to-clean-out-golden-tickets-after-a-succesful-attack-on-your-active-directory-guurhart) By Michael Ball 
+2. [How to clean out golden tickets after a successful attack on your active directory] (https://www.peerlyst.com/posts/improper-session-termination-leading-to-potential-account-takeover-ankit-giri) By Guurhart
+https://www.peerlyst.com/posts/security-automation-best-practices-a-free-ebook-gwen-betts?trk=search_page_search_result
 https://www.peerlyst.com/posts/a-collection-of-links-about-transitioning-into-infosec-or-starting-an-infosec-career-and-making-it-peerlyst?trk=search_page_search_result
 https://www.peerlyst.com/posts/metasploit-quick-tips-for-security-professionals-abhinav-singh
 https://www.peerlyst.com/posts/do-you-want-to-work-in-infosec-or-win-a-nobel-prize-for-literature-kris-rides
@@ -80,40 +80,40 @@ https://www.peerlyst.com/posts/cracking-the-infosec-interview-for-fun-and-profit
 https://www.peerlyst.com/posts/resource-spam-firewalls-what-is-behind-the-name-and-a-list-of-spam-firewall-products-1337mark
 https://www.peerlyst.com/posts/vendor-cybersecurity-governance-10-must-haves-part-1-sarah-clarke
 https://www.peerlyst.com/posts/how-important-is-application-security-and-customer-data-protection-to-a-startup-ankit-giri-2
-37 https://www.peerlyst.com/posts/resource-a-list-of-api-security-guides-and-resources-karl-m-1
-36 https://www.peerlyst.com/posts/resource-a-list-of-open-source-web-application-firewalls-waf-s-s-delano
-35 https://www.peerlyst.com/posts/the-uses-of-hids-host-intrusion-detection-systems-and-nids-network-intrusion-detection-systems-guurhart
-34 https://www.peerlyst.com/posts/distributed-denial-of-service-ddos-attacks-a-primer-max-pritchard
-33 https://www.peerlyst.com/posts/bsidessf-2016-recap-of-fuzz-smarter-not-harder-an-afl-primer-claus-cramon
-32 https://www.peerlyst.com/posts/database-security-don-t-forget-about-it-phillip-maddux
-31 https://www.peerlyst.com/posts/the-recruiters-guide-certifications-you-should-know-about-that-make-infosec-people-more-hireable-claus-cramon
-30 https://www.peerlyst.com/posts/are-you-interested-in-improving-security-awareness-at-your-organization-darrell-drystek
-29 https://www.peerlyst.com/posts/code-elements-to-look-for-when-automating-exploit-generation-fabio-baroni
-28 https://www.peerlyst.com/posts/example-template-for-creating-peerlyst-resources
-27 https://www.peerlyst.com/posts/the-best-resources-for-learning-exploit-development
-26 https://www.peerlyst.com/posts/the-ransomware-invasion-and-some-defenses-against-these-threats
-25 https://www.peerlyst.com/posts/call-for-volunteers-build-resources-for-the-infosec-community
-24 https://www.peerlyst.com/posts/cooperative-infrastructure-for-security-and-ctf-teams
-23 https://www.peerlyst.com/posts/create-your-botnet-of-malicious-browser-extensions-with-beef-armitage-beef-strike
-22 https://www.peerlyst.com/posts/guidance-for-incident-response-play-books
-21 https://www.peerlyst.com/posts/how-to-build-and-run-a-soc-for-incident-response-and-enterprise-defensibility-a-collection-of-resources
-20 https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide
-19 https://www.peerlyst.com/posts/resource-the-infosec-honey-anything-guide
-18 https://www.peerlyst.com/posts/introduction-owasp-security-knowledge-framework-project
-17 https://www.peerlyst.com/posts/resource-capture-the-flag-ctf-competitions-write-ups-and-how-to-ctf-like-a-pro
-16 https://www.peerlyst.com/posts/langsec-implications-for-security
-15 https://www.peerlyst.com/posts/peerlyst-pathfinder-cryptography
-14 https://www.peerlyst.com/posts/resource-cyber-attack-simulation-tools-and-services-list
-13 https://www.peerlyst.com/posts/resource-an-up-to-date-list-of-bug-bounty-programs-reward-systems-security-acknowledgments
-12 https://www.peerlyst.com/posts/solving-the-enigma-of-security-awareness-part-1
-11 https://www.peerlyst.com/posts/peerlyst-pathfinder-research-guide-cybersecurity-law-u-s-edition-1
-10 https://www.peerlyst.com/posts/resource-infosec-powershell-tools-resources-and-authors
-9 https://www.peerlyst.com/posts/approaching-user-awareness
-8 https://www.peerlyst.com/posts/resource-free-infosec-books-list
-7 https://www.peerlyst.com/posts/securing-your-municipal-infrastructure
-6 https://www.peerlyst.com/posts/simply-put-the-differences-between-hpkp-hsts-and-csp
-5 https://www.peerlyst.com/posts/resource-open-source-fuzzers-list
-4 https://www.peerlyst.com/posts/how-to-move-your-app-from-http-to-https
-3 https://www.peerlyst.com/posts/ciso-budget-tool-crowdsourcing-our-way-to-improved-security-management
-2 https://www.peerlyst.com/posts/resource-best-offensive-and-exploitation-books-in-security
-1 https://www.peerlyst.com/posts/what-every-ciso-should-know-about-ddos-attacks
+https://www.peerlyst.com/posts/resource-a-list-of-api-security-guides-and-resources-karl-m-1
+https://www.peerlyst.com/posts/resource-a-list-of-open-source-web-application-firewalls-waf-s-s-delano
+https://www.peerlyst.com/posts/the-uses-of-hids-host-intrusion-detection-systems-and-nids-network-intrusion-detection-systems-guurhart
+https://www.peerlyst.com/posts/distributed-denial-of-service-ddos-attacks-a-primer-max-pritchard
+https://www.peerlyst.com/posts/bsidessf-2016-recap-of-fuzz-smarter-not-harder-an-afl-primer-claus-cramon
+https://www.peerlyst.com/posts/database-security-don-t-forget-about-it-phillip-maddux
+https://www.peerlyst.com/posts/the-recruiters-guide-certifications-you-should-know-about-that-make-infosec-people-more-hireable-claus-cramon
+https://www.peerlyst.com/posts/are-you-interested-in-improving-security-awareness-at-your-organization-darrell-drystek
+https://www.peerlyst.com/posts/code-elements-to-look-for-when-automating-exploit-generation-fabio-baroni
+https://www.peerlyst.com/posts/example-template-for-creating-peerlyst-resources
+https://www.peerlyst.com/posts/the-best-resources-for-learning-exploit-development
+https://www.peerlyst.com/posts/the-ransomware-invasion-and-some-defenses-against-these-threats
+https://www.peerlyst.com/posts/call-for-volunteers-build-resources-for-the-infosec-community
+https://www.peerlyst.com/posts/cooperative-infrastructure-for-security-and-ctf-teams
+https://www.peerlyst.com/posts/create-your-botnet-of-malicious-browser-extensions-with-beef-armitage-beef-strike
+https://www.peerlyst.com/posts/guidance-for-incident-response-play-books
+https://www.peerlyst.com/posts/how-to-build-and-run-a-soc-for-incident-response-and-enterprise-defensibility-a-collection-of-resources
+https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide
+https://www.peerlyst.com/posts/resource-the-infosec-honey-anything-guide
+https://www.peerlyst.com/posts/introduction-owasp-security-knowledge-framework-project
+https://www.peerlyst.com/posts/resource-capture-the-flag-ctf-competitions-write-ups-and-how-to-ctf-like-a-pro
+https://www.peerlyst.com/posts/langsec-implications-for-security
+https://www.peerlyst.com/posts/peerlyst-pathfinder-cryptography
+https://www.peerlyst.com/posts/resource-cyber-attack-simulation-tools-and-services-list
+https://www.peerlyst.com/posts/resource-an-up-to-date-list-of-bug-bounty-programs-reward-systems-security-acknowledgments
+https://www.peerlyst.com/posts/solving-the-enigma-of-security-awareness-part-1
+https://www.peerlyst.com/posts/peerlyst-pathfinder-research-guide-cybersecurity-law-u-s-edition-1
+https://www.peerlyst.com/posts/resource-infosec-powershell-tools-resources-and-authors
+https://www.peerlyst.com/posts/approaching-user-awareness
+https://www.peerlyst.com/posts/resource-free-infosec-books-list
+https://www.peerlyst.com/posts/securing-your-municipal-infrastructure
+https://www.peerlyst.com/posts/simply-put-the-differences-between-hpkp-hsts-and-csp
+https://www.peerlyst.com/posts/resource-open-source-fuzzers-list
+https://www.peerlyst.com/posts/how-to-move-your-app-from-http-to-https
+https://www.peerlyst.com/posts/ciso-budget-tool-crowdsourcing-our-way-to-improved-security-management
+https://www.peerlyst.com/posts/resource-best-offensive-and-exploitation-books-in-security
+https://www.peerlyst.com/posts/what-every-ciso-should-know-about-ddos-attacks
