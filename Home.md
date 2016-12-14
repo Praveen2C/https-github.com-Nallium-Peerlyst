@@ -2,8 +2,8 @@
 
 Here I have gathered numerous Information Security resources from the website: www.Peerlyst.com.
 
-1)https://www.peerlyst.com/posts/how-to-clean-out-golden-tickets-after-a-succesful-attack-on-your-active-directory-guurhart?trk=search_page_search_result
-https://www.peerlyst.com/posts/improper-session-termination-leading-to-potential-account-takeover-ankit-giri?trk=search_page_search_result
+1 https://www.peerlyst.com/posts/how-to-clean-out-golden-tickets-after-a-succesful-attack-on-your-active-directory-guurhart?trk=search_page_search_result
+2 https://www.peerlyst.com/posts/improper-session-termination-leading-to-potential-account-takeover-ankit-giri?trk=search_page_search_result
 https://www.peerlyst.com/posts/security-automation-best-practices-a-free-ebook-gwen-betts?trk=search_page_search_result
 https://www.peerlyst.com/posts/a-collection-of-links-about-transitioning-into-infosec-or-starting-an-infosec-career-and-making-it-peerlyst?trk=search_page_search_result
 https://www.peerlyst.com/posts/metasploit-quick-tips-for-security-professionals-abhinav-singh
