@@ -9,50 +9,50 @@ Here I have gathered numerous Information Security resources from the website: w
 - [How to clean out golden tickets after a successful attack on your active directory](https://www.peerlyst.com/posts/how-to-clean-out-golden-tickets-after-a-succesful-attack-on-your-active-directory-guurhart) By Guurhart
 - [Improper Session Termination Leading to Potential Account](https://www.peerlyst.com/posts/improper-session-termination-leading-to-potential-account-takeover-ankit-giri) By Ankit Giri
 - [Security Automation Best Practices - A Free eBook](https://www.peerlyst.com/posts/security-automation-best-practices-a-free-ebook-gwen-betts) By Gwen Betts
-5. [A collection of links about transitioning into Infosec or starting an infosec career and making it](https://www.peerlyst.com/posts/a-collection-of-links-about-transitioning-into-infosec-or-starting-an-infosec-career-and-making-it-peerlyst) By Peerlyst
-6. https://www.peerlyst.com/posts/metasploit-quick-tips-for-security-professionals-abhinav-singh
-7. https://www.peerlyst.com/posts/do-you-want-to-work-in-infosec-or-win-a-nobel-prize-for-literature-kris-rides
-8. https://www.peerlyst.com/posts/everything-you-need-to-know-about-nerc-cip-compliance-dave-millier-crisc
-9. https://www.peerlyst.com/posts/searching-intelligently-with-virustotal-intelligence-search-abhinav-singh
-10. https://www.peerlyst.com/posts/cybercrime-report-template-bart-blaze
-11. https://www.peerlyst.com/posts/threat-modeling-for-mobile-applications-michael-ball
-12. https://www.peerlyst.com/posts/cybersecurity-recruiters-the-gauntlet-is-thrown-david-froud
-13. https://www.peerlyst.com/posts/network-segmentation-guides-and-best-practices-benjamin-infosec
-14. https://www.peerlyst.com/posts/a-template-for-creating-a-training-course-on-peerlyst-peerlyst
-15. https://www.peerlyst.com/posts/a-template-for-peerlyst-product-reviews-peerlyst
-16. https://www.peerlyst.com/posts/security-niblets-pki-digital-certificates-the-chains-that-bind-bryan-sowell-cissp
-17. https://www.peerlyst.com/posts/which-threat-modeling-methodology-is-right-for-your-organization-brian-beyst-mba
-18. https://www.peerlyst.com/posts/employment-expectations-mismatch-and-recruitment-pitfalls-in-infosec-dawid-balut
-19. https://www.peerlyst.com/posts/security-management-resources-for-small-business-smb-sme-dawid-balut
-20. https://www.peerlyst.com/posts/announcing-a-new-peerlyst-initiative-resume-rewrites-peerlyst
-21. https://www.peerlyst.com/posts/hiring-your-first-security-professional-dawid-balut
-22. https://www.peerlyst.com/posts/resource-pgp-installation-guides-for-osx-windows-and-linux-for-newcomers-karl-m-1
-23. https://www.peerlyst.com/posts/hardware-software-vendor-playbook-handling-vulnerabilities-found-in-your-products-after-launch-ron-hardy
-24. https://www.peerlyst.com/posts/ciso-playbook-for-handling-a-suspected-data-breach-1337mark
-25. https://www.peerlyst.com/posts/active-cyber-defence-101-stephen-w
-26. https://www.peerlyst.com/posts/resource-a-list-of-free-online-training-resources-karl-m-1
-27. https://www.peerlyst.com/posts/resource-a-free-to-use-scenario-to-test-your-incident-response-process-against-a-dos-attack-claus-cramon
-28. https://www.peerlyst.com/posts/some-small-things-you-can-do-to-preserve-a-little-privacy-online-today-peter-stone
-29. https://www.peerlyst.com/posts/resource-network-device-configuration-storage-best-practices-guurhart
-30. https://www.peerlyst.com/posts/build-a-soc-or-choose-an-mssp-eric-carroll-1
-31. https://www.peerlyst.com/posts/finding-the-right-exploit-code-andrew-douma
-32. https://www.peerlyst.com/posts/resource-a-list-of-security-related-mailing-lists-peerlyst
-33. https://www.peerlyst.com/posts/threat-modeling-data-flow-diagram-vs-process-flow-diagram-anurag-agarwal
-34. https://www.peerlyst.com/posts/some-useful-forensics-tools-for-your-forensics-investigation-adminadmin
-35. https://www.peerlyst.com/posts/three-pillars-of-a-scalable-threat-modeling-practice-anurag-agarwal
-36. https://www.peerlyst.com/posts/ciso-and-soc-guide-detecting-and-stopping-data-exfiltration-via-dns-s-delano
-37. https://www.peerlyst.com/posts/research-on-bypassing-web-application-firewalls-wafs-guurhart
-38. https://www.peerlyst.com/posts/resource-tools-tips-and-links-to-make-the-ciso-job-easier-guurhart
-39. https://www.peerlyst.com/posts/resource-osint-tools-and-how-you-learn-how-to-use-them-guurhart
-40. https://www.peerlyst.com/posts/guide-for-programmers-how-to-generate-secure-random-numbers-pyotr-a-pavlensky
-41. https://www.peerlyst.com/posts/a-historic-timeline-of-medical-device-security-research-karl-m-1
-42. https://www.peerlyst.com/posts/wordpress-hardening-a-comprehensive-guide-mark-cutting
-43. https://www.peerlyst.com/posts/managing-insider-risk-darrell-drystek
-44. https://www.peerlyst.com/posts/dnssec-signing-revisited-jim-fenton
-https://www.peerlyst.com/posts/resource-list-of-car-hacking-tools-car-security-tools-and-car-security-resources-ben-ferris
-https://www.peerlyst.com/posts/resource-a-compendium-of-sites-that-you-can-practice-on-you-can-legally-hack-these-sites-karl-m-1
-https://www.peerlyst.com/posts/peerlyst-announcing-its-first-community-ebook-the-beginner-s-guide-to-information-security-limor-elbaz
-https://www.peerlyst.com/posts/a-night-at-the-outsourcer-dean-webb
+- [A collection of links about transitioning into Infosec or starting an infosec career and making it](https://www.peerlyst.com/posts/a-collection-of-links-about-transitioning-into-infosec-or-starting-an-infosec-career-and-making-it-peerlyst) By Peerlyst
+- [Metasploit Quick Tips For Security Professionals](https://www.peerlyst.com/posts/metasploit-quick-tips-for-security-professionals-abhinav-singh)
+- [Do You Want To Work In Infosec or Win a Nobel Prize for Literature?](https://www.peerlyst.com/posts/do-you-want-to-work-in-infosec-or-win-a-nobel-prize-for-literature-kris-rides)
+- [Everything You Need to Know About NERC CIP Compliance](https://www.peerlyst.com/posts/everything-you-need-to-know-about-nerc-cip-compliance-dave-millier-crisc) By Dave Millier, CRISC
+- [Searching Intelligently with VirusTotal Intelligence Search](https://www.peerlyst.com/posts/searching-intelligently-with-virustotal-intelligence-search-abhinav-singh) By Abhinav Singh
+- [Cybercrime Report Template](https://www.peerlyst.com/posts/cybercrime-report-template-bart-blaze) By Bart Blaze
+- [Threat Modeling For Mobile Applications](https://www.peerlyst.com/posts/threat-modeling-for-mobile-applications-michael-ball) By Michael Ball
+- [Cybersecurity Recruiters - The Gauntlet is Thrown!](https://www.peerlyst.com/posts/cybersecurity-recruiters-the-gauntlet-is-thrown-david-froud) By David Froud
+- [Network Segmentation Guides and Best Practises](https://www.peerlyst.com/posts/network-segmentation-guides-and-best-practices-benjamin-infosec) By Benjamin Infosec
+- [A Template For Creating A Training Course On Peerlyst!](https://www.peerlyst.com/posts/a-template-for-creating-a-training-course-on-peerlyst-peerlyst) By Peerlyst
+- [A Template For Peerlyst Product Reviews](https://www.peerlyst.com/posts/a-template-for-peerlyst-product-reviews-peerlyst) By Peerlyst
+- [Security Niblets: PKI Digital Certificates - The Chains That Bind](https://www.peerlyst.com/posts/security-niblets-pki-digital-certificates-the-chains-that-bind-bryan-sowell-cissp) By Bryan Sowell, CISSP
+- [Which Threat Modeling Methodology is Right for Your Organization?](https://www.peerlyst.com/posts/which-threat-modeling-methodology-is-right-for-your-organization-brian-beyst-mba) By Brian Beyst, MBA
+- [Employment Expectations Mismatch and Recruitment Pitfalls in Infosec](https://www.peerlyst.com/posts/employment-expectations-mismatch-and-recruitment-pitfalls-in-infosec-dawid-balut) By Dawid Balut
+- [Security Management Resources for Small Businesses](https://www.peerlyst.com/posts/security-management-resources-for-small-business-smb-sme-dawid-balut) By Dawid Balut
+- [Announcing a New Peerlyst Initiative Resume Rewrites!](https://www.peerlyst.com/posts/announcing-a-new-peerlyst-initiative-resume-rewrites-peerlyst) By Peerlyst
+- [Hiring Your First Security Professional](https://www.peerlyst.com/posts/hiring-your-first-security-professional-dawid-balut) By Dawid Balut
+- [Resource: PGP Installation Guides for OSX, Windows, and Linux for Newcomers](https://www.peerlyst.com/posts/resource-pgp-installation-guides-for-osx-windows-and-linux-for-newcomers-karl-m-1) By Karl M.
+- [Hardware/Software Vendor Playbook: Handling Vulnerabilites Found in Your Products After Launch](https://www.peerlyst.com/posts/hardware-software-vendor-playbook-handling-vulnerabilities-found-in-your-products-after-launch-ron-hardy) By Ron Hardy
+- https://www.peerlyst.com/posts/ciso-playbook-for-handling-a-suspected-data-breach-1337mark
+- https://www.peerlyst.com/posts/active-cyber-defence-101-stephen-w
+- https://www.peerlyst.com/posts/resource-a-list-of-free-online-training-resources-karl-m-1
+- https://www.peerlyst.com/posts/resource-a-free-to-use-scenario-to-test-your-incident-response-process-against-a-dos-attack-claus-cramon
+- https://www.peerlyst.com/posts/some-small-things-you-can-do-to-preserve-a-little-privacy-online-today-peter-stone
+- https://www.peerlyst.com/posts/resource-network-device-configuration-storage-best-practices-guurhart
+- https://www.peerlyst.com/posts/build-a-soc-or-choose-an-mssp-eric-carroll-1
+- https://www.peerlyst.com/posts/finding-the-right-exploit-code-andrew-douma
+- https://www.peerlyst.com/posts/resource-a-list-of-security-related-mailing-lists-peerlyst
+- https://www.peerlyst.com/posts/threat-modeling-data-flow-diagram-vs-process-flow-diagram-anurag-agarwal
+- https://www.peerlyst.com/posts/some-useful-forensics-tools-for-your-forensics-investigation-adminadmin
+- https://www.peerlyst.com/posts/three-pillars-of-a-scalable-threat-modeling-practice-anurag-agarwal
+- https://www.peerlyst.com/posts/ciso-and-soc-guide-detecting-and-stopping-data-exfiltration-via-dns-s-delano
+- https://www.peerlyst.com/posts/research-on-bypassing-web-application-firewalls-wafs-guurhart
+- https://www.peerlyst.com/posts/resource-tools-tips-and-links-to-make-the-ciso-job-easier-guurhart
+- https://www.peerlyst.com/posts/resource-osint-tools-and-how-you-learn-how-to-use-them-guurhart
+- https://www.peerlyst.com/posts/guide-for-programmers-how-to-generate-secure-random-numbers-pyotr-a-pavlensky
+- https://www.peerlyst.com/posts/a-historic-timeline-of-medical-device-security-research-karl-m-1
+- https://www.peerlyst.com/posts/wordpress-hardening-a-comprehensive-guide-mark-cutting
+- https://www.peerlyst.com/posts/managing-insider-risk-darrell-drystek
+- https://www.peerlyst.com/posts/dnssec-signing-revisited-jim-fenton
+- https://www.peerlyst.com/posts/resource-list-of-car-hacking-tools-car-security-tools-and-car-security-resources-ben-ferris
+- https://www.peerlyst.com/posts/resource-a-compendium-of-sites-that-you-can-practice-on-you-can-legally-hack-these-sites-karl-m-1
+- https://www.peerlyst.com/posts/peerlyst-announcing-its-first-community-ebook-the-beginner-s-guide-to-information-security-limor-elbaz
+- https://www.peerlyst.com/posts/a-night-at-the-outsourcer-dean-webb
 https://www.peerlyst.com/posts/resource-tools-and-methods-that-help-you-automate-security-for-your-company-guurhart
 https://www.peerlyst.com/posts/information-security-outsourcing-a-ciso-s-perspective-george-moraetes
 https://www.peerlyst.com/posts/fingerprinting-https-traffic-by-looking-at-patterns-and-unencrypted-parts-of-the-traffic-karl-m-1
