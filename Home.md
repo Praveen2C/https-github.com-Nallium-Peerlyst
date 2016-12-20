@@ -10,8 +10,8 @@ Here I have gathered numerous Information Security resources from the website: w
 - [Improper Session Termination Leading to Potential Account](https://www.peerlyst.com/posts/improper-session-termination-leading-to-potential-account-takeover-ankit-giri) By Ankit Giri
 - [Security Automation Best Practices - A Free eBook](https://www.peerlyst.com/posts/security-automation-best-practices-a-free-ebook-gwen-betts) By Gwen Betts
 - [A collection of links about transitioning into Infosec or starting an infosec career and making it](https://www.peerlyst.com/posts/a-collection-of-links-about-transitioning-into-infosec-or-starting-an-infosec-career-and-making-it-peerlyst) By Peerlyst
-- [Metasploit Quick Tips For Security Professionals](https://www.peerlyst.com/posts/metasploit-quick-tips-for-security-professionals-abhinav-singh)
-- [Do You Want To Work In Infosec or Win a Nobel Prize for Literature?](https://www.peerlyst.com/posts/do-you-want-to-work-in-infosec-or-win-a-nobel-prize-for-literature-kris-rides)
+- [Metasploit Quick Tips For Security Professionals](https://www.peerlyst.com/posts/metasploit-quick-tips-for-security-professionals-abhinav-singh) By Abhinav Singh
+- [Do You Want To Work In Infosec or Win a Nobel Prize for Literature?](https://www.peerlyst.com/posts/do-you-want-to-work-in-infosec-or-win-a-nobel-prize-for-literature-kris-rides) By Kris Rides
 - [Everything You Need to Know About NERC CIP Compliance](https://www.peerlyst.com/posts/everything-you-need-to-know-about-nerc-cip-compliance-dave-millier-crisc) By Dave Millier, CRISC
 - [Searching Intelligently with VirusTotal Intelligence Search](https://www.peerlyst.com/posts/searching-intelligently-with-virustotal-intelligence-search-abhinav-singh) By Abhinav Singh
 - [Cybercrime Report Template](https://www.peerlyst.com/posts/cybercrime-report-template-bart-blaze) By Bart Blaze
@@ -28,15 +28,15 @@ Here I have gathered numerous Information Security resources from the website: w
 - [Hiring Your First Security Professional](https://www.peerlyst.com/posts/hiring-your-first-security-professional-dawid-balut) By Dawid Balut
 - [Resource: PGP Installation Guides for OSX, Windows, and Linux for Newcomers](https://www.peerlyst.com/posts/resource-pgp-installation-guides-for-osx-windows-and-linux-for-newcomers-karl-m-1) By Karl M.
 - [Hardware/Software Vendor Playbook: Handling Vulnerabilites Found in Your Products After Launch](https://www.peerlyst.com/posts/hardware-software-vendor-playbook-handling-vulnerabilities-found-in-your-products-after-launch-ron-hardy) By Ron Hardy
-- https://www.peerlyst.com/posts/ciso-playbook-for-handling-a-suspected-data-breach-1337mark
-- https://www.peerlyst.com/posts/active-cyber-defence-101-stephen-w
-- https://www.peerlyst.com/posts/resource-a-list-of-free-online-training-resources-karl-m-1
-- https://www.peerlyst.com/posts/resource-a-free-to-use-scenario-to-test-your-incident-response-process-against-a-dos-attack-claus-cramon
-- https://www.peerlyst.com/posts/some-small-things-you-can-do-to-preserve-a-little-privacy-online-today-peter-stone
-- https://www.peerlyst.com/posts/resource-network-device-configuration-storage-best-practices-guurhart
-- https://www.peerlyst.com/posts/build-a-soc-or-choose-an-mssp-eric-carroll-1
-- https://www.peerlyst.com/posts/finding-the-right-exploit-code-andrew-douma
-- https://www.peerlyst.com/posts/resource-a-list-of-security-related-mailing-lists-peerlyst
+- [CISO Playbook For Handling a Suspected Data Breach](https://www.peerlyst.com/posts/ciso-playbook-for-handling-a-suspected-data-breach-1337mark) By 1337Mark
+- [Active Cyber Defence 101](https://www.peerlyst.com/posts/active-cyber-defence-101-stephen-w) By Stephen W
+- [Resource: A List of Free Online Training Resources](https://www.peerlyst.com/posts/resource-a-list-of-free-online-training-resources-karl-m-1) By Karl M
+- [Resource: A Free to Use Scenario To Test Your Incident Response Process Against a DOS Attack](https://www.peerlyst.com/posts/resource-a-free-to-use-scenario-to-test-your-incident-response-process-against-a-dos-attack-claus-cramon) By Claus Cramon
+- [Some Small Things You Can Do To Preserve a Little Privacy](https://www.peerlyst.com/posts/some-small-things-you-can-do-to-preserve-a-little-privacy-online-today-peter-stone) By Peter Stone
+- [Resource: Network Device Configuration Storage Best Practices](https://www.peerlyst.com/posts/resource-network-device-configuration-storage-best-practices-guurhart) By Guurhart
+- [Build A SOC or Choose An MSSP?](https://www.peerlyst.com/posts/build-a-soc-or-choose-an-mssp-eric-carroll-1) By Eric Carroll
+- [Finding The Right Exploit Code](https://www.peerlyst.com/posts/finding-the-right-exploit-code-andrew-douma) By Andrew Douma
+- [Resource: A List of Security-Related Mailing-Lists](https://www.peerlyst.com/posts/resource-a-list-of-security-related-mailing-lists-peerlyst) By Peerlyst
 - https://www.peerlyst.com/posts/threat-modeling-data-flow-diagram-vs-process-flow-diagram-anurag-agarwal
 - https://www.peerlyst.com/posts/some-useful-forensics-tools-for-your-forensics-investigation-adminadmin
 - https://www.peerlyst.com/posts/three-pillars-of-a-scalable-threat-modeling-practice-anurag-agarwal
