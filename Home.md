@@ -6,7 +6,7 @@ Here I have gathered numerous Information Security resources from the website: w
 2. [How to clean out golden tickets after a successful attack on your active directory](https://www.peerlyst.com/posts/how-to-clean-out-golden-tickets-after-a-succesful-attack-on-your-active-directory-guurhart) By Guurhart
 3. [Improper Session Termination Leading to Potential Account](https://www.peerlyst.com/posts/improper-session-termination-leading-to-potential-account-takeover-ankit-giri) By Ankit Giri
 4. [Security Automation Best Practices - A Free eBook](https://www.peerlyst.com/posts/security-automation-best-practices-a-free-ebook-gwen-betts) By Gwen Betts
-5. [A collection of links about transitioning into Infosec or starting an infosec career and making it] https://www.peerlyst.com/posts/a-collection-of-links-about-transitioning-into-infosec-or-starting-an-infosec-career-and-making-it-peerlyst By Peerlyst
+5. [A collection of links about transitioning into Infosec or starting an infosec career and making it]https://www.peerlyst.com/posts/a-collection-of-links-about-transitioning-into-infosec-or-starting-an-infosec-career-and-making-it-peerlyst By Peerlyst
 6. https://www.peerlyst.com/posts/metasploit-quick-tips-for-security-professionals-abhinav-singh
 7. https://www.peerlyst.com/posts/do-you-want-to-work-in-infosec-or-win-a-nobel-prize-for-literature-kris-rides
 8. https://www.peerlyst.com/posts/everything-you-need-to-know-about-nerc-cip-compliance-dave-millier-crisc
