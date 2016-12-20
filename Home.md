@@ -2,13 +2,13 @@
 
 Here I have gathered numerous Information Security resources from the website: www.Peerlyst.com.
 
-- https://www.peerlyst.com/posts/testing-the-security-of-a-java-application-karl-m-1
-- https://www.peerlyst.com/posts/securing-the-internet-of-things-developer-s-guidance-michael-ball
-- https://www.peerlyst.com/posts/the-science-of-port-scanning-everything-you-need-to-learn-collected-into-1-post-karl-m
+- [Testing The Security of a JAVA Application] (https://www.peerlyst.com/posts/testing-the-security-of-a-java-application-karl-m-1) By Karl M.
+- [Securing The Internet Of Things - Developer's Guidance] (https://www.peerlyst.com/posts/securing-the-internet-of-things-developer-s-guidance-michael-ball) By Michael Ball
+- [The science of port scanning - everything you need to learn collected into 1 post](https://www.peerlyst.com/posts/the-science-of-port-scanning-everything-you-need-to-learn-collected-into-1-post-karl-m-1) By Karl M.
 - [How to Develop an Enterprise Secure Coding Program](https://www.peerlyst.com/posts/how-to-develop-an-enterprise-secure-coding-program-michael-ball) By Michael Ball 
-2. [How to clean out golden tickets after a successful attack on your active directory](https://www.peerlyst.com/posts/how-to-clean-out-golden-tickets-after-a-succesful-attack-on-your-active-directory-guurhart) By Guurhart
-3. [Improper Session Termination Leading to Potential Account](https://www.peerlyst.com/posts/improper-session-termination-leading-to-potential-account-takeover-ankit-giri) By Ankit Giri
-4. [Security Automation Best Practices - A Free eBook](https://www.peerlyst.com/posts/security-automation-best-practices-a-free-ebook-gwen-betts) By Gwen Betts
+- [How to clean out golden tickets after a successful attack on your active directory](https://www.peerlyst.com/posts/how-to-clean-out-golden-tickets-after-a-succesful-attack-on-your-active-directory-guurhart) By Guurhart
+- [Improper Session Termination Leading to Potential Account](https://www.peerlyst.com/posts/improper-session-termination-leading-to-potential-account-takeover-ankit-giri) By Ankit Giri
+- [Security Automation Best Practices - A Free eBook](https://www.peerlyst.com/posts/security-automation-best-practices-a-free-ebook-gwen-betts) By Gwen Betts
 5. [A collection of links about transitioning into Infosec or starting an infosec career and making it](https://www.peerlyst.com/posts/a-collection-of-links-about-transitioning-into-infosec-or-starting-an-infosec-career-and-making-it-peerlyst) By Peerlyst
 6. https://www.peerlyst.com/posts/metasploit-quick-tips-for-security-professionals-abhinav-singh
 7. https://www.peerlyst.com/posts/do-you-want-to-work-in-infosec-or-win-a-nobel-prize-for-literature-kris-rides
