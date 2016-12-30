@@ -89,22 +89,22 @@ Security Operation Centers
 - [CISO and SOC Guide: Detecting and Stopping Data Exfiltration Via DNS](https://www.peerlyst.com/posts/ciso-and-soc-guide-detecting-and-stopping-data-exfiltration-via-dns-s-delano) By S. Delano
 
 Firewalls
-- https://www.peerlyst.com/posts/research-on-bypassing-web-application-firewalls-wafs-guurhart
+- [Research on Bypassing Web Application Firewalls](https://www.peerlyst.com/posts/research-on-bypassing-web-application-firewalls-wafs-guurhart) By Guurhart
 
 Open Source Intelligence
 - [Resource: OSINT Tools and How You Learn How To Use Them](https://www.peerlyst.com/posts/resource-osint-tools-and-how-you-learn-how-to-use-them-guurhart) By Guurhart
 
 Programming
-- https://www.peerlyst.com/posts/guide-for-programmers-how-to-generate-secure-random-numbers-pyotr-a-pavlensky
+- [Guide For Programmers - How To Generate Secure Random Numbers](https://www.peerlyst.com/posts/guide-for-programmers-how-to-generate-secure-random-numbers-pyotr-a-pavlensky) By Pyotr A Pavlensky
 
 Medical Devices
-- https://www.peerlyst.com/posts/a-historic-timeline-of-medical-device-security-research-karl-m-1
+- [A Historic Timeline of Medical Device Security Research](https://www.peerlyst.com/posts/a-historic-timeline-of-medical-device-security-research-karl-m-1) By Karl M.
 
-- https://www.peerlyst.com/posts/wordpress-hardening-a-comprehensive-guide-mark-cutting
+- [Wordpress Hardening - A Comprehensive Guide](https://www.peerlyst.com/posts/wordpress-hardening-a-comprehensive-guide-mark-cutting) By Mark Cutting
 
-- https://www.peerlyst.com/posts/managing-insider-risk-darrell-drystek
+- [Managing Insider Risk](https://www.peerlyst.com/posts/managing-insider-risk-darrell-drystek) By Darrell Drystek
 
-- https://www.peerlyst.com/posts/dnssec-signing-revisited-jim-fenton
+- [DNSSEC Signing Revisited](https://www.peerlyst.com/posts/dnssec-signing-revisited-jim-fenton) By Jim Fenton
 
 Vehicle Security
 - https://www.peerlyst.com/posts/resource-list-of-car-hacking-tools-car-security-tools-and-car-security-resources-ben-ferris
@@ -113,7 +113,7 @@ Vehicle Security
 
 - [Peerlyst Announcing its First Community eBook: The Beginner's Guide To Information Security!](https://www.peerlyst.com/posts/peerlyst-announcing-its-first-community-ebook-the-beginner-s-guide-to-information-security-limor-elbaz) By Limor Elbaz
 
-- https://www.peerlyst.com/posts/a-night-at-the-outsourcer-dean-webb
+- [A Night at the Outsourcer](https://www.peerlyst.com/posts/a-night-at-the-outsourcer-dean-webb) By Dean Webb
 - https://www.peerlyst.com/posts/resource-tools-and-methods-that-help-you-automate-security-for-your-company-guurhart
 - [Active Cyber Defence 101](https://www.peerlyst.com/posts/active-cyber-defence-101-stephen-w) By Stephen W
 - [Resource: A List of Free Online Training Resources](https://www.peerlyst.com/posts/resource-a-list-of-free-online-training-resources-karl-m-1) By Karl M
