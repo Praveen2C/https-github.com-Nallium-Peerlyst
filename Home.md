@@ -182,5 +182,9 @@ Vehicle Security
 - [Resource: Infosec Powershell Tools, Resources, And Authors](https://www.peerlyst.com/posts/resource-infosec-powershell-tools-resources-and-authors) By 
 - [Approaching User Awareness](https://www.peerlyst.com/posts/approaching-user-awareness) By
 - [Resource: Free InfoSec Books List](https://www.peerlyst.com/posts/resource-free-infosec-books-list) By 
+
+Municipal
 - [Securing Your Municipal Infrastructure](https://www.peerlyst.com/posts/securing-your-municipal-infrastructure) By Victor Wong
-- [Simply Put: The Differences Between HPKP, HSTS, And CSP.](https://www.peerlyst.com/posts/simply-put-the-differences-between-hpkp-hsts-and-csp) By 
+
+Web Site Security
+- [Simply Put: The Differences Between HPKP, HSTS, And CSP.](https://www.peerlyst.com/posts/simply-put-the-differences-between-hpkp-hsts-and-csp) By Claus Cramon Houmann 
