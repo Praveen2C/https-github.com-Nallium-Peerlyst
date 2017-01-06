@@ -21,6 +21,14 @@ CISO
 - [Information Security Outsourcing: A CISO's Perspective](https://www.peerlyst.com/posts/information-security-outsourcing-a-ciso-s-perspective-george-moraetes?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By George Moraetes
 - [Resource: How To Avoid Data Breaches And Lawsuits, A Manual For CISO's](https://www.peerlyst.com/posts/resource-how-to-avoid-data-breaches-and-lawsuits-a-manual-for-cisos-guurhart?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Guurhart
 
+Compliance
+- [Everything You Need to Know About NERC CIP Compliance](https://www.peerlyst.com/posts/everything-you-need-to-know-about-nerc-cip-compliance-dave-millier-crisc?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dave Millier, CRISC
+
+Cryptography
+- [Peerlyst Pathfinder Cryptography](https://www.peerlyst.com/posts/peerlyst-pathfinder-cryptography?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By
+
+
+
 
 Guides
 - [How to clean out golden tickets after a successful attack on your active directory](https://www.peerlyst.com/posts/how-to-clean-out-golden-tickets-after-a-succesful-attack-on-your-active-directory-guurhart?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Guurhart
@@ -85,8 +93,7 @@ Your InfoSec Career
 - [Employment Expectations Mismatch and Recruitment Pitfalls in Infosec](https://www.peerlyst.com/posts/employment-expectations-mismatch-and-recruitment-pitfalls-in-infosec-dawid-balut?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dawid Balut
 - [Cracking The Infosec Interview For Fun And Profit](https://www.peerlyst.com/posts/cracking-the-infosec-interview-for-fun-and-profit-how-not-to-suck-and-get-usdusd-hired-usdusd-fabio-baroni?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Fabio Baroni
 
-Compliance
-- [Everything You Need to Know About NERC CIP Compliance](https://www.peerlyst.com/posts/everything-you-need-to-know-about-nerc-cip-compliance-dave-millier-crisc?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dave Millier, CRISC
+
 
 Vulnerability Scanners
 - [Searching Intelligently with VirusTotal Intelligence Search](https://www.peerlyst.com/posts/searching-intelligently-with-virustotal-intelligence-search-abhinav-singh?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Abhinav Singh
@@ -184,17 +191,17 @@ Vehicle Security
 
 - [Resource: An Up To Date List Of Bug Bounty Programs, Reward Systems, And Security Acknowledgments](https://www.peerlyst.com/posts/resource-an-up-to-date-list-of-bug-bounty-programs-reward-systems-security-acknowledgments?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By
 
-[The Complete List of InfoSec Related Cheat Sheets](https://www.peerlyst.com/posts/the-complete-list-of-infosec-related-cheat-sheets-claus-cramon?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon
-[Objective Comparison Of Ad Fraud Detection Technologies](https://www.peerlyst.com/posts/objective-comparison-of-ad-fraud-detection-technologies-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou, Cybersecurity Fraud Researcher
-[Train Your Cyber Skills Online Updated](https://www.peerlyst.com/posts/train-your-cyber-skills-online-updated-joe-shenouda?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Joe Shenouda
-[The Ad Fraud Ecosystem Is A Well Oiled Rube Goldberg Machine](https://www.peerlyst.com/posts/the-ad-fraud-ecosystem-is-a-well-oiled-rube-goldberg-machine-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou, Cybersecurity Fraud Researcher
-[Penetration Testers Guide To Windows 10 Privacy and Security](https://www.peerlyst.com/posts/penetration-testers-guide-to-windows-10-privacy-and-security-andrew-douma?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Andrea Douma
-[One Interview A Month - Lessons Learned](https://www.peerlyst.com/posts/one-interview-a-month-lessons-learned-kyle-chambers?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Kyle Chambers
-[Which Type Of Evil Bot is Wrecking Your](https://www.peerlyst.com/posts/which-type-of-evil-bot-is-wrecking-your-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou, Cybersecurity Fraud Researcher
-[OSINT And Threat Intelligence Chrome Plugin To Look Up IPS, FQDNS, MD5, SHA2, and CVES](https://www.peerlyst.com/posts/osint-and-threat-intelligence-chrome-plugin-to-look-up-ips-fqdns-md5-sha2-and-cves-matt-brewer?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Matt Brewer
+-[The Complete List of InfoSec Related Cheat Sheets](https://www.peerlyst.com/posts/the-complete-list-of-infosec-related-cheat-sheets-claus-cramon?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon
 
-Cryptography
-- [Peerlyst Pathfinder Cryptography](https://www.peerlyst.com/posts/peerlyst-pathfinder-cryptography?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By
+-[Objective Comparison Of Ad Fraud Detection Technologies](https://www.peerlyst.com/posts/objective-comparison-of-ad-fraud-detection-technologies-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou, Cybersecurity Fraud Researcher
+-[Train Your Cyber Skills Online Updated](https://www.peerlyst.com/posts/train-your-cyber-skills-online-updated-joe-shenouda?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Joe Shenouda
+-[The Ad Fraud Ecosystem Is A Well Oiled Rube Goldberg Machine](https://www.peerlyst.com/posts/the-ad-fraud-ecosystem-is-a-well-oiled-rube-goldberg-machine-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou, Cybersecurity Fraud Researcher
+-[Penetration Testers Guide To Windows 10 Privacy and Security](https://www.peerlyst.com/posts/penetration-testers-guide-to-windows-10-privacy-and-security-andrew-douma?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Andrea Douma
+-[One Interview A Month - Lessons Learned](https://www.peerlyst.com/posts/one-interview-a-month-lessons-learned-kyle-chambers?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Kyle Chambers
+-[Which Type Of Evil Bot is Wrecking Your](https://www.peerlyst.com/posts/which-type-of-evil-bot-is-wrecking-your-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou, Cybersecurity Fraud Researcher
+-[OSINT And Threat Intelligence Chrome Plugin To Look Up IPS, FQDNS, MD5, SHA2, and CVES](https://www.peerlyst.com/posts/osint-and-threat-intelligence-chrome-plugin-to-look-up-ips-fqdns-md5-sha2-and-cves-matt-brewer?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Matt Brewer
+
+
 
 Municipal(City)
 - [Securing Your Municipal Infrastructure](https://www.peerlyst.com/posts/securing-your-municipal-infrastructure?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Victor Wong
