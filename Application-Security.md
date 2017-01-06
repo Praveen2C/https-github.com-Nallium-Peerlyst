@@ -1,1 +1,9 @@
 Application Security
+
+Those Tagged with [Resource:] Are Continuously Updated. Those Listed With [Published Date] Are Top One Shot Articles.
+
+- [[Resource:]Testing The Security of a JAVA Application] (https://www.peerlyst.com/posts/testing-the-security-of-a-java-application-karl-m-1?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Karl M.
+- [[Resource:]Improper Session Termination Leading to Potential Account](https://www.peerlyst.com/posts/improper-session-termination-leading-to-potential-account-takeover-ankit-giri?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Ankit Giri
+- [[Resource:]How Important is Application Security And Customer Data Protection To A Startup?](https://www.peerlyst.com/posts/how-important-is-application-security-and-customer-data-protection-to-a-startup-ankit-giri-2?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Ankit Giri
+- [[June 4, 2015]XSS prevention in web applications](https://www.peerlyst.com/posts/xss-prevention-in-web-applications-1?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By [Robert Warren](https://www.peerlyst.com/users/robert-warren-1?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post)
+- [[Aug 11, 2016]Facebook's plan to circumvent ad-blocking makes malvertising easy](https://www.peerlyst.com/posts/facebook-s-plan-to-circumvent-ad-blocking-makes-malvertising-easy-violet-blue?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By [Violet Blue](https://www.peerlyst.com/users/violet-blue?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post)
