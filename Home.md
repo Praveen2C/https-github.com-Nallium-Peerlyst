@@ -2,6 +2,13 @@
 
 Here I have gathered numerous Information Security Resource Articles from the website: www.Peerlyst.com. They are frequently updated. As the site adds more Resources I will add them below.
 
+Ad Fraud
+- [Objective Comparison Of Ad Fraud Detection Technologies](https://www.peerlyst.com/posts/objective-comparison-of-ad-fraud-detection-technologies-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou, Cybersecurity Fraud Researcher
+- [The Ad Fraud Ecosystem Is A Well Oiled Rube Goldberg Machine](https://www.peerlyst.com/posts/the-ad-fraud-ecosystem-is-a-well-oiled-rube-goldberg-machine-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou, Cybersecurity Fraud Researcher
+- [Which Type Of Evil Bot is Wrecking Your](https://www.peerlyst.com/posts/which-type-of-evil-bot-is-wrecking-your-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou, Cybersecurity Fraud Researcher
+- [What Can Bots Do? It's More Like What Can't Bots Do.](https://www.peerlyst.com/posts/what-can-bots-do-it-s-more-like-what-can-t-bots-do-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou, Cybersecurity Ad Fraud Researcher
+- [Bust Misconceptions About Ad Fraud Via Technical Understanding](https://www.peerlyst.com/posts/bust-misconceptions-about-ad-fraud-via-technical-understanding-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou, Cybersecurity Ad Fraud Researcher
+
 Attack Methods
 - [Distributed Denial Of Services(DDOS) Attacks - A Primer](https://www.peerlyst.com/posts/distributed-denial-of-service-ddos-attacks-a-primer-max-pritchard?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Max Pritchard
 
@@ -44,6 +51,9 @@ Cryptography
 
 Capture The Flag Competitions
 - [Resource: Capture The Flag(CTF) Competitions, Write-ups, and How To CTF Like A Pro](https://www.peerlyst.com/posts/resource-capture-the-flag-ctf-competitions-write-ups-and-how-to-ctf-like-a-pro?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon Houmann
+
+Cloud
+- [Appliance As a Service Products Suck](https://www.peerlyst.com/posts/appliance-as-a-service-security-products-suck-julian-cohen?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Julian Cohen
 
 DNS
 - [DNSSEC Signing Revisited](https://www.peerlyst.com/posts/dnssec-signing-revisited-jim-fenton?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Jim Fenton
@@ -120,6 +130,7 @@ Peerlyst Website Resources
 - [A Template For Peerlyst Product Reviews](https://www.peerlyst.com/posts/a-template-for-peerlyst-product-reviews-peerlyst?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Peerlyst
 - [Call For Volunteers: Build Resources For The InfoSec Community](https://www.peerlyst.com/posts/call-for-volunteers-build-resources-for-the-infosec-community?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Peerlyst
 - [Example Template For Creating Peerlyst Resources](https://www.peerlyst.com/posts/example-template-for-creating-peerlyst-resources?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Peerlyst
+- [The Complete Security Calendar](https://www.peerlyst.com/posts/the-complete-security-calendar-peerlyst?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Peerlyst
 
 Pentesting
 - [The science of port scanning - everything you need to learn collected into 1 post](https://www.peerlyst.com/posts/the-science-of-port-scanning-everything-you-need-to-learn-collected-into-1-post-karl-m-1?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Karl M.
@@ -151,6 +162,7 @@ Risk
 Security Certificates
 - [Security Niblets: PKI Digital Certificates - The Chains That Bind](https://www.peerlyst.com/posts/security-niblets-pki-digital-certificates-the-chains-that-bind-bryan-sowell-cissp?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Bryan Sowell, CISSP
 - [How To Move Your App From HTTP to HTTPS](https://www.peerlyst.com/posts/how-to-move-your-app-from-http-to-https?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Puja Kamath
+- [Example of Client Certificate Usage - Securing WP Admin](https://www.peerlyst.com/posts/example-of-client-certificate-usage-securing-wp-admin-dave-howe?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dave Howe
 
 Security Operation Centers
 - [CISO and SOC Guide: Detecting and Stopping Data Exfiltration Via DNS](https://www.peerlyst.com/posts/ciso-and-soc-guide-detecting-and-stopping-data-exfiltration-via-dns-s-delano?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By S. Delano
@@ -166,6 +178,7 @@ Security Management
 - [Security Monitoring And Attack Detection With Elasticsearch, Logstash, And Kibana](https://www.peerlyst.com/posts/security-monitoring-and-attack-detection-with-elasticsearch-logstash-and-kibana-martin-boller?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Martin Boller
 - [Vendor Cybersecurity Governance: 10 Must Haves Part 1](https://www.peerlyst.com/posts/vendor-cybersecurity-governance-10-must-haves-part-1-sarah-clarke?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Sarah Clarke
 - [Database Security: Don't Forget About it!](https://www.peerlyst.com/posts/database-security-don-t-forget-about-it-phillip-maddux?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Phillip Maddux
+- [Security Through Obscurity: Why Your Next-Gen Cyber Solution Is Worthless](https://www.peerlyst.com/posts/security-through-obscurity-why-your-next-gen-cyber-solution-is-worthless-daniel-shapira?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Daniel Shapira
 
 Social Engineering
 - [Why Is Social Engineering Such A Significant Security Concern](https://www.peerlyst.com/posts/why-is-social-engineering-such-a-significant-security-concern-mark-cutting?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Mark Cutting
@@ -211,6 +224,7 @@ Vulnerability Management/Disclosure
 - [Tracking or Disclosing Vulnerabilities in 2017: How to Track Them and Where to Disclose Them](https://www.peerlyst.com/posts/tracking-or-disclosing-vulnerabilities-in-2017-how-to-track-them-and-where-to-disclose-them-1337mark?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By 1337mark
 - [Hardware/Software Vendor Playbook: Handling Vulnerabilites Found in Your Products After Launch](https://www.peerlyst.com/posts/hardware-software-vendor-playbook-handling-vulnerabilities-found-in-your-products-after-launch-ron-hardy?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Ron Hardy
 - [Resource: An Up To Date List Of Bug Bounty Programs, Reward Systems, And Security Acknowledgments](https://www.peerlyst.com/posts/resource-an-up-to-date-list-of-bug-bounty-programs-reward-systems-security-acknowledgments?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon Houmann
+- [Implementing ERP Vulnerability Management Process: Part 1](https://www.peerlyst.com/posts/implementing-erp-vulnerability-management-process-part-1-mikhail-rakutko?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Mikhail Rakutko
 
 Vulnerability Scanners
 - [Searching Intelligently with VirusTotal Intelligence Search](https://www.peerlyst.com/posts/searching-intelligently-with-virustotal-intelligence-search-abhinav-singh?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Abhinav Singh
@@ -218,26 +232,3 @@ Vulnerability Scanners
 
 Web Site Security
 - [Simply Put: The Differences Between HPKP, HSTS, And CSP.](https://www.peerlyst.com/posts/simply-put-the-differences-between-hpkp-hsts-and-csp?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon Houmann 
-
-
-
-
-
-
-
-
-
-
-
-
-- [Objective Comparison Of Ad Fraud Detection Technologies](https://www.peerlyst.com/posts/objective-comparison-of-ad-fraud-detection-technologies-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou, Cybersecurity Fraud Researcher
-- [The Ad Fraud Ecosystem Is A Well Oiled Rube Goldberg Machine](https://www.peerlyst.com/posts/the-ad-fraud-ecosystem-is-a-well-oiled-rube-goldberg-machine-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou, Cybersecurity Fraud Researcher
-- [Which Type Of Evil Bot is Wrecking Your](https://www.peerlyst.com/posts/which-type-of-evil-bot-is-wrecking-your-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou, Cybersecurity Fraud Researcher
-- [What Can Bots Do? It's More Like What Can't Bots Do.](https://www.peerlyst.com/posts/what-can-bots-do-it-s-more-like-what-can-t-bots-do-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou, Cybersecurity Ad Fraud Researcher
-- [Bust Misconceptions About Ad Fraud Via Technical Understanding](https://www.peerlyst.com/posts/bust-misconceptions-about-ad-fraud-via-technical-understanding-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou, Cybersecurity Ad Fraud Researcher
-
-- [Example of Client Certificate Usage - Securing WP Admin](https://www.peerlyst.com/posts/example-of-client-certificate-usage-securing-wp-admin-dave-howe?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dave Howe
-- [Security Through Obscurity: Why Your Next-Gen Cyber Solution Is Worthless](https://www.peerlyst.com/posts/security-through-obscurity-why-your-next-gen-cyber-solution-is-worthless-daniel-shapira?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Daniel Shapira
-- [Implementing ERP Vulnerability Management Process: Part 1](https://www.peerlyst.com/posts/implementing-erp-vulnerability-management-process-part-1-mikhail-rakutko?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Mikhail Rakutko
-- [The Complete Security Calendar](https://www.peerlyst.com/posts/the-complete-security-calendar-peerlyst?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Peerlyst
-- [Appliance As a Service Products Suck](https://www.peerlyst.com/posts/appliance-as-a-service-security-products-suck-julian-cohen?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Julian Cohen
