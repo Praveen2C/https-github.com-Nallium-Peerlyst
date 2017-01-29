@@ -83,6 +83,7 @@ Forensics
 - [Some Useful Forensics Tools For Your Forensics Investigation](https://www.peerlyst.com/posts/some-useful-forensics-tools-for-your-forensics-investigation-adminadmin?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By AdminAdmin
 - [How to clean out golden tickets after a successful attack on your active directory](https://www.peerlyst.com/posts/how-to-clean-out-golden-tickets-after-a-succesful-attack-on-your-active-directory-guurhart?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Guurhart
 - [Cybercrime Report Template](https://www.peerlyst.com/posts/cybercrime-report-template-bart-blaze?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Bart Blaze
+- [Obtaining WPA-PSK Keys on Windows 7, 8, and 10 for Digital Forensics (Or Evil and Fun](https://www.peerlyst.com/posts/obtaining-wpa-psk-keys-on-windows-7-8-and-10-for-digital-forensics-or-evil-and-fun-martin-boller?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Martin Boller
 
 Guides
 - [How to clean out golden tickets after a successful attack on your active directory](https://www.peerlyst.com/posts/how-to-clean-out-golden-tickets-after-a-succesful-attack-on-your-active-directory-guurhart?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Guurhart
@@ -143,6 +144,8 @@ Pentesting
 - [Create Your Botnet Of Malicious Browser Extensions With BEEF, Armitage, BEEF Strike](https://www.peerlyst.com/posts/create-your-botnet-of-malicious-browser-extensions-with-beef-armitage-beef-strike?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Beny Bertin
 - [Penetration Testers Guide To Windows 10 Privacy and Security](https://www.peerlyst.com/posts/penetration-testers-guide-to-windows-10-privacy-and-security-andrew-douma?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Andrea Douma
 - [Pentesting Binary and non-HTTP Protocols with the NOPE Proxy](https://www.peerlyst.com/posts/pen-testing-binary-and-non-http-protocols-with-the-nope-proxy-josh-summitt-cissp-ceh-gpen-grem?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Josh Summitt, CISSP, CEH, GPEN
+- [Transfer Backdoor Payloads By ARP Traffic and Bypassing AVs](https://www.peerlyst.com/posts/transfer-backdoor-payloads-by-arp-traffic-and-bypassing-avs-damon-mohammadbagher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Damon Mohammadbagher‍ 
+- [How To TCPDump Effectively in Docker](https://www.peerlyst.com/posts/how-to-tcpdump-effectively-in-docker-philippe-bogaerts?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Philippe Bogaerts‍ 
 
 Privacy
 - [Some Small Things You Can Do To Preserve a Little Privacy](https://www.peerlyst.com/posts/some-small-things-you-can-do-to-preserve-a-little-privacy-online-today-peter-stone?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Peter Stone
@@ -158,6 +161,7 @@ Risk
 - [Resource: Third Party Risk Assessment Reading Material And Help](https://www.peerlyst.com/posts/resource-third-party-risk-assessment-reading-material-and-help-1337mark?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By 1337mark
 - [Making A Risk Based IT Change Management Process](https://www.peerlyst.com/posts/making-a-risk-based-it-change-management-process-josh-moulin?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Josh Moulin
 - [Vendor Cybersecurity Governance: 10 Must Haves Part 2](https://www.peerlyst.com/posts/vendor-cybersecurity-governance-10-must-haves-part-2-sarah-clarke?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Sarah Clarke
+- [Thoughts on Creating A Culture of Cybersecurity in the Workplace](https://www.peerlyst.com/posts/thoughts-on-creating-a-culture-of-cybersecurity-in-the-workplace-oscar-waterworth?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Oscar Waterworth
 
 Security Certificates
 - [Security Niblets: PKI Digital Certificates - The Chains That Bind](https://www.peerlyst.com/posts/security-niblets-pki-digital-certificates-the-chains-that-bind-bryan-sowell-cissp?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Bryan Sowell, CISSP
