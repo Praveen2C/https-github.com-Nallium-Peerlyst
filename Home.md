@@ -78,6 +78,7 @@ Free Reading/Training Resources
 - [Learning Linux: Cheat Sheets, Overview And Resources](https://www.peerlyst.com/posts/learning-linux-cheat-sheets-overview-and-resources-pyotr-a-pavlensky?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Pyotr A Pavlensky
 - [Train Your Cyber Skills Online Updated](https://www.peerlyst.com/posts/train-your-cyber-skills-online-updated-joe-shenouda?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Joe Shenouda
 - [The Complete List of InfoSec Related Cheat Sheets](https://www.peerlyst.com/posts/the-complete-list-of-infosec-related-cheat-sheets-claus-cramon?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon
+- [Free Training: Threat Landscape - IOT, Cloud, and Mobile](https://www.peerlyst.com/posts/free-training-threat-landscape-iot-cloud-and-mobile-peerlyst?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Peerlyst
 
 Forensics
 - [Some Useful Forensics Tools For Your Forensics Investigation](https://www.peerlyst.com/posts/some-useful-forensics-tools-for-your-forensics-investigation-adminadmin?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By AdminAdmin
@@ -95,6 +96,7 @@ Guides
 - [Resource: Learning How To Reverse Malware - A Guide](https://www.peerlyst.com/posts/resource-learning-how-to-reverse-malware-a-guide?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon Houmann
 - [Resource: The Infosec Honey Anything Guide](https://www.peerlyst.com/posts/resource-the-infosec-honey-anything-guide?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon Houmann
 - [Peerlyst Pathfinder Research Guide Cybersecurity Law: US Edition](https://www.peerlyst.com/posts/peerlyst-pathfinder-research-guide-cybersecurity-law-u-s-edition-1?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Tracy Z. Maleeff
+- [Configuring and Using DANE TLSA Records](https://www.peerlyst.com/posts/configuring-and-using-dane-tlsa-records-per-thorsheim-1?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Per Thorsheim
 
 Incident Response
 - [Resource: A Free to Use Scenario To Test Your Incident Response Process Against a DOS Attack](https://www.peerlyst.com/posts/resource-a-free-to-use-scenario-to-test-your-incident-response-process-against-a-dos-attack-claus-cramon?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon
@@ -109,6 +111,7 @@ The Internet of Things
 - [Securing The Internet Of Things - Developer's Guidance] (https://www.peerlyst.com/posts/securing-the-internet-of-things-developer-s-guidance-michael-ball?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Michael Ball
 - [The IOT Files: Culture](https://www.peerlyst.com/posts/the-iot-files-culture-antonio-ieran?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Antonio Ieran
 - [The IOT Files: IOT and Security](https://www.peerlyst.com/posts/the-iot-files-iot-and-security-antonio-ieran?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Antonio Ieran
+- [The Internet of Things is Evolving and Security Engineers Will Need To Keep Up](https://www.peerlyst.com/posts/the-internet-of-things-is-evolving-and-security-engineers-will-need-to-keep-up-brian-russell?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Brian Russell
 
 Langsec
 - [Langsec Implications For Security](https://www.peerlyst.com/posts/langsec-implications-for-security?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Rob Lewis
@@ -118,6 +121,12 @@ Medical Devices
 
 Municipal(City)
 - [Securing Your Municipal Infrastructure](https://www.peerlyst.com/posts/securing-your-municipal-infrastructure?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Victor Wong
+
+Monitoring
+-[Decoding TLS Docker API with Wireshark](https://www.peerlyst.com/posts/decoding-tls-docker-api-with-wireshark-philippe-bogaerts?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Philippe Bogaerts
+
+Offense and Exploitation
+- [Know Everything About the Malicious Domain Generating Algorithm](https://www.peerlyst.com/posts/know-everything-about-the-malicious-domain-generating-alogrithm-anshuman-kak?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Anshuman Kak
 
 Outsourcing
 - [A Night at the Outsourcer](https://www.peerlyst.com/posts/a-night-at-the-outsourcer-dean-webb?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dean Webb
