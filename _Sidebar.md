@@ -1,4 +1,4 @@
-Catagories
+Categories
 
 Application Security
 Best Practises
