@@ -18,6 +18,7 @@ Application Security
 - [How Important is Application Security And Customer Data Protection To A Startup?](https://www.peerlyst.com/posts/how-important-is-application-security-and-customer-data-protection-to-a-startup-ankit-giri-2?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Ankit Giri
 - [How To Implement Secure Password Storage With Hashing And Salting In Your Application](https://www.peerlyst.com/posts/how-to-implement-secure-password-storage-with-hashing-and-salting-in-your-application-karl-m-1?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Karl M.
 - [Introduction: OWASP Security Knowledge Framework Project](https://www.peerlyst.com/posts/introduction-owasp-security-knowledge-framework-project?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Glenn Ten Cate
+- [SAP HANA Security: The Patching Process](https://www.peerlyst.com/posts/sap-hana-security-the-patching-process-alexander-polyakov?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Alexander Polyakov
 
 Best Practices
 - [How to Develop an Enterprise Secure Coding Program](https://www.peerlyst.com/posts/how-to-develop-an-enterprise-secure-coding-program-michael-ball?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Michael Ball 
@@ -97,6 +98,10 @@ Guides
 - [Resource: The Infosec Honey Anything Guide](https://www.peerlyst.com/posts/resource-the-infosec-honey-anything-guide?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon Houmann
 - [Peerlyst Pathfinder Research Guide Cybersecurity Law: US Edition](https://www.peerlyst.com/posts/peerlyst-pathfinder-research-guide-cybersecurity-law-u-s-edition-1?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Tracy Z. Maleeff
 - [Configuring and Using DANE TLSA Records](https://www.peerlyst.com/posts/configuring-and-using-dane-tlsa-records-per-thorsheim-1?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Per Thorsheim
+- [A CISM Study And Exam Guide](https://www.peerlyst.com/posts/a-cism-study-and-exam-guide-guurhart?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Guurhart
+
+Identity Management
+- [Treat Your Key Pairs Like Passwords](https://www.peerlyst.com/posts/treat-your-key-pairs-like-passwords-michael-ball?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Michael Ball
 
 Incident Response
 - [Resource: A Free to Use Scenario To Test Your Incident Response Process Against a DOS Attack](https://www.peerlyst.com/posts/resource-a-free-to-use-scenario-to-test-your-incident-response-process-against-a-dos-attack-claus-cramon?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon
@@ -127,6 +132,7 @@ Monitoring
 
 Offense and Exploitation
 - [Know Everything About the Malicious Domain Generating Algorithm](https://www.peerlyst.com/posts/know-everything-about-the-malicious-domain-generating-alogrithm-anshuman-kak?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Anshuman Kak
+- [Will Back Ups Be Enough?](https://www.peerlyst.com/posts/will-back-ups-be-enough-bradley-dougherty?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Bradley Dougherty
 
 Outsourcing
 - [A Night at the Outsourcer](https://www.peerlyst.com/posts/a-night-at-the-outsourcer-dean-webb?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dean Webb
@@ -159,6 +165,7 @@ Pentesting
 Privacy
 - [Some Small Things You Can Do To Preserve a Little Privacy](https://www.peerlyst.com/posts/some-small-things-you-can-do-to-preserve-a-little-privacy-online-today-peter-stone?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Peter Stone
 - [Where Are You Along This Privacy Spectrum?](https://www.peerlyst.com/posts/where-you-you-along-this-privacy-spectrum-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou
+- [Are You Prepared For The GDPR?](https://www.peerlyst.com/posts/are-you-prepared-for-the-gdpr-carey-lening?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Carey Lening
 
 Programming
 - [Guide For Programmers - How To Generate Secure Random Numbers](https://www.peerlyst.com/posts/guide-for-programmers-how-to-generate-secure-random-numbers-pyotr-a-pavlensky?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Pyotr A Pavlensky
@@ -171,6 +178,8 @@ Risk
 - [Making A Risk Based IT Change Management Process](https://www.peerlyst.com/posts/making-a-risk-based-it-change-management-process-josh-moulin?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Josh Moulin
 - [Vendor Cybersecurity Governance: 10 Must Haves Part 2](https://www.peerlyst.com/posts/vendor-cybersecurity-governance-10-must-haves-part-2-sarah-clarke?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Sarah Clarke
 - [Thoughts on Creating A Culture of Cybersecurity in the Workplace](https://www.peerlyst.com/posts/thoughts-on-creating-a-culture-of-cybersecurity-in-the-workplace-oscar-waterworth?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Oscar Waterworth
+- [Treat Your Key Pairs Like Passwords](https://www.peerlyst.com/posts/treat-your-key-pairs-like-passwords-michael-ball?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Michael Ball
+- [Are You Prepared For The GDPR?](https://www.peerlyst.com/posts/are-you-prepared-for-the-gdpr-carey-lening?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Carey Lening
 
 Security Certificates
 - [Security Niblets: PKI Digital Certificates - The Chains That Bind](https://www.peerlyst.com/posts/security-niblets-pki-digital-certificates-the-chains-that-bind-bryan-sowell-cissp?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Bryan Sowell, CISSP
@@ -184,6 +193,7 @@ Security Operation Centers
 
 Security Management
 - [Active Cyber Defence 101](https://www.peerlyst.com/posts/active-cyber-defence-101-stephen-w?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Stephen W
+- [Active Cyber Defence - Cyber Deception - Part Two](https://www.peerlyst.com/posts/active-cyber-defence-cyber-deception-part-two-stephen-w?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Stephen W.
 - [Cyber Hygiene - It's About The Basics](https://www.peerlyst.com/posts/cyber-hygiene-it-s-about-the-basics-gary-hayslip-cissp-cisa-crisc-ccsk?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Gary Hayslip, CISSP, CISA, CRISC, CCSK
 - [Cybersecurity Considerations With Bring Your Own Device BYOD Implementations](https://www.peerlyst.com/posts/cybersecurity-considerations-with-bring-your-own-device-byod-implementations-josh-moulin?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Josh Moulin
 - [ISO Standards Relevant To Information Security Professionals](https://www.peerlyst.com/posts/iso-standards-relevant-to-information-security-professionals-guurhart?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Guurhart
@@ -192,6 +202,9 @@ Security Management
 - [Vendor Cybersecurity Governance: 10 Must Haves Part 1](https://www.peerlyst.com/posts/vendor-cybersecurity-governance-10-must-haves-part-1-sarah-clarke?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Sarah Clarke
 - [Database Security: Don't Forget About it!](https://www.peerlyst.com/posts/database-security-don-t-forget-about-it-phillip-maddux?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Phillip Maddux
 - [Security Through Obscurity: Why Your Next-Gen Cyber Solution Is Worthless](https://www.peerlyst.com/posts/security-through-obscurity-why-your-next-gen-cyber-solution-is-worthless-daniel-shapira?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Daniel Shapira
+- [Treat Your Key Pairs Like Passwords](https://www.peerlyst.com/posts/treat-your-key-pairs-like-passwords-michael-ball?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Michael Ball
+- [My Way Of Recovering From a Docker Swarm Meltdown Effectively](https://www.peerlyst.com/posts/my-way-of-recovering-from-a-docker-swarm-meltdown-effectively-philippe-bogaerts?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Philippe Bogaerts
+- [Will Back Ups Be Enough?](https://www.peerlyst.com/posts/will-back-ups-be-enough-bradley-dougherty?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Bradley Dougherty
 
 Social Engineering
 - [Why Is Social Engineering Such A Significant Security Concern](https://www.peerlyst.com/posts/why-is-social-engineering-such-a-significant-security-concern-mark-cutting?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Mark Cutting
