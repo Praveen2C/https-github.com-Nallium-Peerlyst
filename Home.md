@@ -13,7 +13,7 @@ Here I have gathered numerous Information Security Resource Articles from the we
 - [Second Community eBook: Essentials Of Cybersecurity](https://www.peerlyst.com/posts/second-community-ebook-essentials-of-cybersecurity-limor-elbaz?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Limor Elbaz
 - [UX Comparison of IOS Authenticator Apps](https://www.peerlyst.com/posts/ux-comparison-of-ios-authenticator-apps-per-thorsheim-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Per Thorsheim
 - [Application Security Wiki](https://www.peerlyst.com/posts/application-security-peerlyst-wiki-nicole-lamoureux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Nicole Lamoureux
-- [Security Information And Event Management (SIEM): A Detailed Explaination](https://www.peerlyst.com/posts/security-information-and-event-management-siem-a-detailed-explanation-balaji-n-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Balaji N.
+- [Security Information And Event Management (SIEM): A Detailed Explanation](https://www.peerlyst.com/posts/security-information-and-event-management-siem-a-detailed-explanation-balaji-n-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Balaji N.
 - [A CEH Certified Ethical Hacker Study And Exam Guide](https://www.peerlyst.com/posts/a-ceh-certified-ethical-hacker-study-and-exam-guide-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Guurhart
 
 Ad Fraud
