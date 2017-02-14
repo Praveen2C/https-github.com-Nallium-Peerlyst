@@ -2,6 +2,20 @@
 
 Here I have gathered numerous Information Security Resource Articles from the website: www.Peerlyst.com. They are frequently updated. As the site adds more Resources I will add them below.
 
+**NEW** 
+
+- [Enumerating JSONS Form Command Line](https://www.peerlyst.com/posts/enumerating-jsons-form-command-line-zeev-glozman?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Zeev Glozman
+- [[Tool] Psychohasher: All Purpose Hashing Utility](https://www.peerlyst.com/posts/tool-psychohasher-all-purpose-hashing-utility-animesh-shaw?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Animesh Shaw
+- [Resource: Free Basic Template Information Security Incident Management Policy and Procedure](https://www.peerlyst.com/posts/resource-free-basic-template-information-security-incident-management-policy-and-procedure-sunil-kuamr?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Sunil Kuamr
+- [Enhance Cybersecurity With Threat Modeling](https://www.peerlyst.com/posts/enhance-cybersecurity-with-threat-modeling-brian-beyst-mba?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Brian Beyst
+- [Threat Intelligence Hunter: An Open Source Project For Threat Hunting and Information Gathering](https://www.peerlyst.com/posts/threat-intelligence-hunter-an-open-source-project-for-threat-hunting-and-information-gathering-abhinav-singh?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Abhinav Singh
+- [Cybersecurity Training Gamification: Fun Ways To Raise Awareness](https://www.peerlyst.com/posts/cybersecurity-training-gamification-fun-ways-to-raise-awareness-oscar-waterworth?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Oscar Waterworth
+- [Second Community eBook: Essentials Of Cybersecurity](https://www.peerlyst.com/posts/second-community-ebook-essentials-of-cybersecurity-limor-elbaz?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Limor Elbaz
+- [UX Comparison of IOS Authenticator Apps](https://www.peerlyst.com/posts/ux-comparison-of-ios-authenticator-apps-per-thorsheim-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Per Thorsheim
+- [Application Security Wiki](https://www.peerlyst.com/posts/application-security-peerlyst-wiki-nicole-lamoureux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Nicole Lamoureux
+- [Security Information And Event Management (SIEM): A Detailed Explaination](https://www.peerlyst.com/posts/security-information-and-event-management-siem-a-detailed-explanation-balaji-n-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Balaji N.
+- [A CEH Certified Ethical Hacker Study And Exam Guide](https://www.peerlyst.com/posts/a-ceh-certified-ethical-hacker-study-and-exam-guide-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Guurhart
+
 Ad Fraud
 - [Objective Comparison Of Ad Fraud Detection Technologies](https://www.peerlyst.com/posts/objective-comparison-of-ad-fraud-detection-technologies-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou, Cybersecurity Fraud Researcher
 - [The Ad Fraud Ecosystem Is A Well Oiled Rube Goldberg Machine](https://www.peerlyst.com/posts/the-ad-fraud-ecosystem-is-a-well-oiled-rube-goldberg-machine-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=Github&utm_medium=Social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dr. Augustine Fou, Cybersecurity Fraud Researcher
@@ -258,17 +272,3 @@ Vulnerability Scanners
 
 Web Site Security
 - [Simply Put: The Differences Between HPKP, HSTS, And CSP.](https://www.peerlyst.com/posts/simply-put-the-differences-between-hpkp-hsts-and-csp?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon Houmann 
-
-**NEW** 
-
-- [Enumerating JSONS Form Command Line](https://www.peerlyst.com/posts/enumerating-jsons-form-command-line-zeev-glozman?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Zeev Glozman
-- [[Tool] Psychohasher: All Purpose Hashing Utility](https://www.peerlyst.com/posts/tool-psychohasher-all-purpose-hashing-utility-animesh-shaw?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Animesh Shaw
-- [Resource: Free Basic Template Information Security Incident Management Policy and Procedure](https://www.peerlyst.com/posts/resource-free-basic-template-information-security-incident-management-policy-and-procedure-sunil-kuamr?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Sunil Kuamr
-- [Enchance Cybersecurity With Threat Modeling](https://www.peerlyst.com/posts/enhance-cybersecurity-with-threat-modeling-brian-beyst-mba?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Brian Beyst
-- [Threat Intelligence Hunter: An Open Source Project For Threat Hunting and Information Gathering](https://www.peerlyst.com/posts/threat-intelligence-hunter-an-open-source-project-for-threat-hunting-and-information-gathering-abhinav-singh?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Abhinav Singh
-- [Cybersecurity Training Gamification: Fun Ways To Raise Awareness](https://www.peerlyst.com/posts/cybersecurity-training-gamification-fun-ways-to-raise-awareness-oscar-waterworth?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Oscar Waterworth
-- [Second Community eBook: Essentials Of Cybersecurity](https://www.peerlyst.com/posts/second-community-ebook-essentials-of-cybersecurity-limor-elbaz?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Limor Elbaz
-- [UX Comparison of IOS Authenticator Apps](https://www.peerlyst.com/posts/ux-comparison-of-ios-authenticator-apps-per-thorsheim-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Per Thorsheim
-- [Application Security Wiki](https://www.peerlyst.com/posts/application-security-peerlyst-wiki-nicole-lamoureux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Nicole Lamoureux
-- [Security Information And Event Management (SIEM): A Detailed Explaination](https://www.peerlyst.com/posts/security-information-and-event-management-siem-a-detailed-explanation-balaji-n-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Balaji N.
-- [A CEH Certified Ethical Hacker Study And Exam Guide](https://www.peerlyst.com/posts/a-ceh-certified-ethical-hacker-study-and-exam-guide-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Guurhart
