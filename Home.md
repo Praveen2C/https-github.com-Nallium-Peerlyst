@@ -4,15 +4,11 @@ Here I have gathered numerous Information Security Resource Articles from the we
 
 **NEW** 
 
-- [Cyber Evangelism 101](https://www.peerlyst.com/posts/cyber-evangelism-101-gary-hayslip-cissp-cisa-crisc-ccsk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Gary Hayslip‍
-- [Transferring Backdoor Payloads with BSSID by Wireless Traffic](https://www.peerlyst.com/posts/transferring-backdoor-payloads-with-bssid-by-wireless-traffic-damon-mohammadbagher?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Damon Mohammadbagher‍
-- [VoIP Penetration Testing](https://www.peerlyst.com/posts/voip-penetration-testing-abhinav-singh?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Abhinav Singh‍
-- [On the Shoulders of InfoSec Giants](https://www.peerlyst.com/posts/on-the-shoulders-of-infosec-giants-andrew-douma?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Andrew Douma‍
-- [Step 2: Identify Key Stakeholders and Leaders](https://www.peerlyst.com/posts/step-2-identify-key-stakeholders-and-leaders-brian-beyst-mba?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Brian Beyst‍
-- [GDPR: 5 Tips for meeting individuals’ rights](https://www.peerlyst.com/posts/gdpr-5-tips-for-meeting-individuals-rights-chris-zoladz?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Chris Zoladz‍
-- [The History of Hacking Wiki](https://www.peerlyst.com/posts/the-history-of-hacking-nicole-lamoureux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Nicole Lamoureux‍
-- [A Threat Modeling Wiki](https://www.peerlyst.com/posts/a-threat-modeling-wiki-nicole-lamoureux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Nicole Lamoureux‍
-- [Conceptual Mapping of On-premises Infrastructure Security Components to Cloud Security Services](https://www.peerlyst.com/posts/conceptual-mapping-of-on-premises-infrastructure-security-components-to-cloud-security-services-adrian-grigorof?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Adrian Grigorof‍
+- [How to safely use Enterprise File Sync and Share solutions](https://www.peerlyst.com/posts/how-to-safely-use-efss-solution-dawid-balut?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dawid Balut
+- [EAS-SEC. Oracle PeopleSoft Security Configuration. Part 2: Patch Management](https://www.peerlyst.com/posts/eas-sec-oracle-peoplesoft-security-configuration-part-2-patch-management-nadezhda-krivdyuk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Nadia Krivdyuk
+- [The Theory and Reality of SIEM ROI in 2017](https://www.peerlyst.com/posts/the-theory-and-reality-of-siem-roi-in-2017-andrii-bezverkhyi?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Andrii Bezverkhyi
+- [Wiki: UAC Bypasses and UAC bypass research](https://www.peerlyst.com/posts/wiki-uac-bypasses-and-uac-bypass-research-nic-cancellari?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Nic Cancellari
+- [RESOURCE: Free or Freemium SIEM and Log Management Tools](https://www.peerlyst.com/posts/free-or-freemium-siem-and-log-management-tools-martin-boller-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Martin Boller
 
 
 
@@ -55,6 +51,7 @@ Your InfoSec Career
 - [One Interview A Month - Lessons Learned](https://www.peerlyst.com/posts/one-interview-a-month-lessons-learned-kyle-chambers?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Kyle Chambers
 - [Reflections from a Coaching Session on Effective Presentations](https://www.peerlyst.com/posts/reflections-from-a-coaching-session-on-effective-presentations-chris-zoladz) By Chris Zoladz‍
 - [The How To Become {Infosec Job Title} Collection](https://www.peerlyst.com/posts/the-how-to-become-infosec-job-title-collection-nicole-lamoureux) By Nicole Lamoureux‍
+- [On the Shoulders of InfoSec Giants](https://www.peerlyst.com/posts/on-the-shoulders-of-infosec-giants-andrew-douma?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Andrew Douma‍
 
 
 CISO
@@ -64,9 +61,11 @@ CISO
 - [Resource: Tools, Tips, and Links to Make the CISO Job Easier](https://www.peerlyst.com/posts/resource-tools-tips-and-links-to-make-the-ciso-job-easier-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Guurhart
 - [Information Security Outsourcing: A CISO's Perspective](https://www.peerlyst.com/posts/information-security-outsourcing-a-ciso-s-perspective-george-moraetes?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By George Moraetes
 - [Resource: How To Avoid Data Breaches And Lawsuits, A Manual For CISO's](https://www.peerlyst.com/posts/resource-how-to-avoid-data-breaches-and-lawsuits-a-manual-for-cisos-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Guurhart
+- [Cyber Evangelism 101](https://www.peerlyst.com/posts/cyber-evangelism-101-gary-hayslip-cissp-cisa-crisc-ccsk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Gary Hayslip‍
 
 Compliance
 - [Everything You Need to Know About NERC CIP Compliance](https://www.peerlyst.com/posts/everything-you-need-to-know-about-nerc-cip-compliance-dave-millier-crisc?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dave Millier, CRISC
+- [GDPR: 5 Tips for meeting individuals’ rights](https://www.peerlyst.com/posts/gdpr-5-tips-for-meeting-individuals-rights-chris-zoladz?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Chris Zoladz‍
 
 Cryptography
 - [Peerlyst Pathfinder Cryptography](https://www.peerlyst.com/posts/peerlyst-pathfinder-cryptography?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Shay Gueron
@@ -76,6 +75,7 @@ Capture The Flag Competitions
 
 Cloud
 - [Appliance As a Service Products Suck](https://www.peerlyst.com/posts/appliance-as-a-service-security-products-suck-julian-cohen?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Julian Cohen
+- [Conceptual Mapping of On-premises Infrastructure Security Components to Cloud Security Services](https://www.peerlyst.com/posts/conceptual-mapping-of-on-premises-infrastructure-security-components-to-cloud-security-services-adrian-grigorof?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Adrian Grigorof‍
 
 DNS
 - [DNSSEC Signing Revisited](https://www.peerlyst.com/posts/dnssec-signing-revisited-jim-fenton?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Jim Fenton
@@ -124,6 +124,9 @@ Guides
 - [A CEH Certified Ethical Hacker Study And Exam Guide](https://www.peerlyst.com/posts/a-ceh-certified-ethical-hacker-study-and-exam-guide-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Guurhart
 - [Enumerating JSONS Form Command Line](https://www.peerlyst.com/posts/enumerating-jsons-form-command-line-zeev-glozman?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Zeev Glozman
 - [Full Disk Encryption with VeraCrypt](https://www.peerlyst.com/posts/full-disk-encryption-with-veracrypt-andrew-douma) By Andrew Douma‍
+
+Hacking
+- [The History of Hacking Wiki](https://www.peerlyst.com/posts/the-history-of-hacking-nicole-lamoureux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Nicole Lamoureux‍
 
 Identity Management
 - [Treat Your Key Pairs Like Passwords](https://www.peerlyst.com/posts/treat-your-key-pairs-like-passwords-michael-ball?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Michael Ball
@@ -192,6 +195,8 @@ Pentesting
 - [How to set up a Home Pentesting Lab on a Shoestring](https://www.peerlyst.com/posts/home-lab-on-a-shoestring-dave-howe) By Dave Howe‍
 - [Pentesting Wiki: Testing SQLite databases](https://www.peerlyst.com/posts/pentesting-wiki-testing-sqlite-databases-karl-m-1) By Karl M.‍
 - [A collection of Red team infrastructure and operations resources](https://www.peerlyst.com/posts/a-collection-of-red-team-infrastructure-and-operations-resources-claus-cramon) By Claus Cramon Houmann‍
+- [Transferring Backdoor Payloads with BSSID by Wireless Traffic](https://www.peerlyst.com/posts/transferring-backdoor-payloads-with-bssid-by-wireless-traffic-damon-mohammadbagher?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Damon Mohammadbagher‍
+- [VoIP Penetration Testing](https://www.peerlyst.com/posts/voip-penetration-testing-abhinav-singh?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Abhinav Singh‍
 
 Privacy
 - [Some Small Things You Can Do To Preserve a Little Privacy](https://www.peerlyst.com/posts/some-small-things-you-can-do-to-preserve-a-little-privacy-online-today-peter-stone?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Peter Stone
@@ -215,6 +220,8 @@ Risk
 - [Are You Prepared For The GDPR?](https://www.peerlyst.com/posts/are-you-prepared-for-the-gdpr-carey-lening?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Carey Lening
 - [Enhance Cybersecurity With Threat Modeling](https://www.peerlyst.com/posts/enhance-cybersecurity-with-threat-modeling-brian-beyst-mba?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Brian Beyst
 - [Step 1: Define the Threat Modeling Objectives](https://www.peerlyst.com/posts/step-1-define-the-threat-modeling-objectives-brian-beyst-mba) By Brian Beyst‍
+- [Step 2: Identify Key Stakeholders and Leaders](https://www.peerlyst.com/posts/step-2-identify-key-stakeholders-and-leaders-brian-beyst-mba?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Brian Beyst‍
+- [A Threat Modeling Wiki](https://www.peerlyst.com/posts/a-threat-modeling-wiki-nicole-lamoureux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Nicole Lamoureux‍
 
 SCADA
 - [ICS-SCADA Cybersecurity Resources](https://www.peerlyst.com/posts/ics-scada-cybersecurity-resources-andrew-carts) By Andrew Carts‍
