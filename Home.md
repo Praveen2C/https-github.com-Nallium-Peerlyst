@@ -23,7 +23,7 @@ Attack Methods
 - [Distributed Denial Of Services(DDOS) Attacks - A Primer](https://www.peerlyst.com/posts/distributed-denial-of-service-ddos-attacks-a-primer-max-pritchard?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Max Pritchard
 
 Application Security
-- [Testing The Security of a JAVA Application] (https://www.peerlyst.com/posts/testing-the-security-of-a-java-application-karl-m-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Karl M.
+- [Testing The Security of a JAVA Application](https://www.peerlyst.com/posts/testing-the-security-of-a-java-application-karl-m-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Karl M.
 - [Improper Session Termination Leading to Potential Account](https://www.peerlyst.com/posts/improper-session-termination-leading-to-potential-account-takeover-ankit-giri?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Ankit Giri
 - [How Important is Application Security And Customer Data Protection To A Startup?](https://www.peerlyst.com/posts/how-important-is-application-security-and-customer-data-protection-to-a-startup-ankit-giri-2?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Ankit Giri
 - [How To Implement Secure Password Storage With Hashing And Salting In Your Application](https://www.peerlyst.com/posts/how-to-implement-secure-password-storage-with-hashing-and-salting-in-your-application-karl-m-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Karl M.
