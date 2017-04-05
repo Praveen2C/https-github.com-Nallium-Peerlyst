@@ -4,11 +4,23 @@ Here I have gathered numerous Information Security Resource Articles from the we
 
 **NEW** 
 
-- [How to safely use Enterprise File Sync and Share solutions](https://www.peerlyst.com/posts/how-to-safely-use-efss-solution-dawid-balut?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dawid Balut
-- [EAS-SEC. Oracle PeopleSoft Security Configuration. Part 2: Patch Management](https://www.peerlyst.com/posts/eas-sec-oracle-peoplesoft-security-configuration-part-2-patch-management-nadezhda-krivdyuk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Nadia Krivdyuk
-- [The Theory and Reality of SIEM ROI in 2017](https://www.peerlyst.com/posts/the-theory-and-reality-of-siem-roi-in-2017-andrii-bezverkhyi?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Andrii Bezverkhyi
-- [Wiki: UAC Bypasses and UAC bypass research](https://www.peerlyst.com/posts/wiki-uac-bypasses-and-uac-bypass-research-nic-cancellari?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Nic Cancellari
-- [RESOURCE: Free or Freemium SIEM and Log Management Tools](https://www.peerlyst.com/posts/free-or-freemium-siem-and-log-management-tools-martin-boller-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Martin Boller
+- [Meaningful Threat Modeling for CISOs](https://www.peerlyst.com/posts/meaningful-threat-modeling-for-cisos-anurag-agarwal?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Anurag Agarwal‍
+- [Information Security Fiction Wiki](https://www.peerlyst.com/posts/information-security-fiction-nicole-lamoureux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Nicole Lamoureux‍
+- [Certification Path, Study Plan For The CISM Exam](https://www.peerlyst.com/posts/certification-path-study-plan-for-the-cism-exam-jon-snurka?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Jon Snurka‍
+- [Living In The Security Echo Chamber](https://www.peerlyst.com/posts/living-in-the-security-echo-chamber-tal-arad?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Tal Arad‍
+- [HTML Injection Introduction](https://www.peerlyst.com/posts/html-injection-introduction-hari-charan?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Hari Charan‍
+- [HTML Injection Reflected POST HTTP Verb](https://www.peerlyst.com/posts/html-injection-reflected-post-http-verb-hari-charan?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Hari Charan‍
+- [GDPR: 4 Tips for addressing accountability](https://www.peerlyst.com/posts/gdpr-4-tips-for-addressing-accountability-chris-zoladz?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Chris Zoladz‍
+- [The set-up a malware/pentesting lab Wiki](https://www.peerlyst.com/posts/the-set-up-a-malware-pentesting-lab-wiki-peerlyst?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Peerlyst‍
+- [Information Gathering – First Step of Hacking](https://www.peerlyst.com/posts/information-gathering-first-step-of-hacking-sachin-wagh?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Sachin Wagh‍
+- [NMAP For Vulnerability Discovery](https://www.peerlyst.com/posts/nmap-for-vulnerability-discovery-sachin-wagh?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Sachin Wagh‍
+- [Resource: Free Change Management Policy Template for Small Business (SMB/SME)](https://www.peerlyst.com/posts/resource-free-change-management-policy-template-for-small-business-smb-sme-claus-cramon?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon Houmann‍
+- [Pentest tools: LFI scanners and exploiters](https://www.peerlyst.com/posts/pentest-tools-lfi-scanners-and-exploiters-karl-m-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Karl M.‍
+- [ISACA CISM: Why you should do it and how to pass the certification exam!](https://www.peerlyst.com/posts/isaca-cism-why-you-should-do-it-and-how-to-pass-the-certification-exam-claudio-dodt?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Cláudio Dodt
+- [CertUtil –the little engine that could (Part 1)](https://www.peerlyst.com/posts/certutil-the-little-engine-that-could-part-1-bryan-sowell-cissp?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Bryan Sowell, CISSP‍
+- [Assessing Risk - Helping the SMB market understand](https://www.peerlyst.com/posts/assessing-risk-helping-the-smb-market-understand-rob-chaykoski?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Rob Chaykoski‍
+- [Oracle database security scan - process explained](https://www.peerlyst.com/posts/oracle-database-security-scan-process-explained-dataplus?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By DATAPLUS‍
+
 
 
 
@@ -124,9 +136,11 @@ Guides
 - [A CEH Certified Ethical Hacker Study And Exam Guide](https://www.peerlyst.com/posts/a-ceh-certified-ethical-hacker-study-and-exam-guide-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Guurhart
 - [Enumerating JSONS Form Command Line](https://www.peerlyst.com/posts/enumerating-jsons-form-command-line-zeev-glozman?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Zeev Glozman
 - [Full Disk Encryption with VeraCrypt](https://www.peerlyst.com/posts/full-disk-encryption-with-veracrypt-andrew-douma) By Andrew Douma‍
+- [How to safely use Enterprise File Sync and Share solutions](https://www.peerlyst.com/posts/how-to-safely-use-efss-solution-dawid-balut?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dawid Balut
 
 Hacking
 - [The History of Hacking Wiki](https://www.peerlyst.com/posts/the-history-of-hacking-nicole-lamoureux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Nicole Lamoureux‍
+- [Wiki: UAC Bypasses and UAC bypass research](https://www.peerlyst.com/posts/wiki-uac-bypasses-and-uac-bypass-research-nic-cancellari?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Nic Cancellari
 
 Identity Management
 - [Treat Your Key Pairs Like Passwords](https://www.peerlyst.com/posts/treat-your-key-pairs-like-passwords-michael-ball?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Michael Ball
@@ -250,6 +264,11 @@ Security Management
 - [Treat Your Key Pairs Like Passwords](https://www.peerlyst.com/posts/treat-your-key-pairs-like-passwords-michael-ball?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Michael Ball
 - [My Way Of Recovering From a Docker Swarm Meltdown Effectively](https://www.peerlyst.com/posts/my-way-of-recovering-from-a-docker-swarm-meltdown-effectively-philippe-bogaerts?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Philippe Bogaerts
 - [Will Back Ups Be Enough?](https://www.peerlyst.com/posts/will-back-ups-be-enough-bradley-dougherty?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Bradley Dougherty
+- [EAS-SEC. Oracle PeopleSoft Security Configuration. Part 2: Patch Management](https://www.peerlyst.com/posts/eas-sec-oracle-peoplesoft-security-configuration-part-2-patch-management-nadezhda-krivdyuk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Nadia Krivdyuk
+
+SIEM
+- [The Theory and Reality of SIEM ROI in 2017](https://www.peerlyst.com/posts/the-theory-and-reality-of-siem-roi-in-2017-andrii-bezverkhyi?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Andrii Bezverkhyi
+- [RESOURCE: Free or Freemium SIEM and Log Management Tools](https://www.peerlyst.com/posts/free-or-freemium-siem-and-log-management-tools-martin-boller-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Martin Boller
 
 social Engineering
 - [Why Is social Engineering Such A Significant Security Concern](https://www.peerlyst.com/posts/why-is-social-engineering-such-a-significant-security-concern-mark-cutting?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Mark Cutting
