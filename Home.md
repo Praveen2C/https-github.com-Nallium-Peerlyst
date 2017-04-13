@@ -4,12 +4,15 @@ Here I have gathered numerous Information Security Resource Articles from the we
 
 **NEW** 
 
-
-
-
-
-
-
+- [Closing the Talent Gap](https://www.peerlyst.com/posts/closing-the-talent-gap-alan-wong?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Alan Wong
+- [SCADA Wiki](https://www.peerlyst.com/posts/scada-wiki-nicole-lamoureux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Nicole Lamoureux
+- [The Avatar Project : Architecting a Multi-Purpose virtual lab environment](https://www.peerlyst.com/posts/the-avatar-project-architecting-a-multi-purpose-virtual-lab-environment-tony-robinson-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Tony Robinson
+- [While we wait for the next big hack to draw everyone's attention to security, do this](https://www.peerlyst.com/posts/while-we-wait-for-the-next-big-hack-to-draw-everyone-s-attention-to-security-do-this-benjamin-infosec?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Benjamin Infosec
+- [Certificate Authorities are now required to check your CAA record before issuing TLS certificates](https://www.peerlyst.com/posts/certificate-authorities-are-now-required-to-check-your-caa-record-before-issuing-tls-certificates-boris-karamazin?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Boris Karamazin
+- [The InfoSec Mentors Project](https://www.peerlyst.com/posts/the-infosec-mentors-project-jimmy-vo?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Jimmy Vo
+- [Security Metrics-Risk Assessments](https://www.peerlyst.com/posts/security-metrics-risk-assessments-rob-chaykoski?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Rob Chaykoski
+- [Securing an Android Phone or Tablet](https://www.peerlyst.com/posts/securing-an-android-phone-or-tablet-andrew-douma?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Andrew Douma
+- [Implementing SAP Vulnerability Management Process. Part 3. Vulnerability Analysis](https://www.peerlyst.com/posts/implementing-sap-vulnerability-management-process-part-3-vulnerability-analysis-mikhail-rakutko?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Michael Rakutko
 
 
 
