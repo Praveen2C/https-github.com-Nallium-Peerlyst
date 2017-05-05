@@ -4,15 +4,20 @@ Here I have gathered numerous Information Security Resource Articles from the we
 
 **NEW** 
 
-- [Closing the Talent Gap](https://www.peerlyst.com/posts/closing-the-talent-gap-alan-wong?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Alan Wong
-- [SCADA Wiki](https://www.peerlyst.com/posts/scada-wiki-nicole-lamoureux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Nicole Lamoureux
-- [The Avatar Project : Architecting a Multi-Purpose virtual lab environment](https://www.peerlyst.com/posts/the-avatar-project-architecting-a-multi-purpose-virtual-lab-environment-tony-robinson-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Tony Robinson
-- [While we wait for the next big hack to draw everyone's attention to security, do this](https://www.peerlyst.com/posts/while-we-wait-for-the-next-big-hack-to-draw-everyone-s-attention-to-security-do-this-benjamin-infosec?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Benjamin Infosec
-- [Certificate Authorities are now required to check your CAA record before issuing TLS certificates](https://www.peerlyst.com/posts/certificate-authorities-are-now-required-to-check-your-caa-record-before-issuing-tls-certificates-boris-karamazin?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Boris Karamazin
-- [The InfoSec Mentors Project](https://www.peerlyst.com/posts/the-infosec-mentors-project-jimmy-vo?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Jimmy Vo
-- [Security Metrics-Risk Assessments](https://www.peerlyst.com/posts/security-metrics-risk-assessments-rob-chaykoski?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Rob Chaykoski
-- [Securing an Android Phone or Tablet](https://www.peerlyst.com/posts/securing-an-android-phone-or-tablet-andrew-douma?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Andrew Douma
-- [Implementing SAP Vulnerability Management Process. Part 3. Vulnerability Analysis](https://www.peerlyst.com/posts/implementing-sap-vulnerability-management-process-part-3-vulnerability-analysis-mikhail-rakutko?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Michael Rakutko
+- [Transferring Backdoor Payloads with BMP Image Pixels](https://www.peerlyst.com/posts/transferring-backdoor-payloads-with-bmp-image-pixels-damon-mohammadbagher?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Damon Mohammadbagher
+- [New essential pentest tool - WHID Injector: How to Bring HID Attacks to the Next Level](https://www.peerlyst.com/posts/whid-injector-how-to-bring-hid-attacks-to-the-next-level-karl-m-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Karl M.
+- [How To Put Any Android Smartphone Into Monitor Mode Using Custom Script Without bcmon](https://www.peerlyst.com/posts/how-to-put-any-android-smartphone-into-monitor-mode-using-custom-script-without-bcmon-kali-linux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By kali linux
+- [If you buy PKI, you won't be booted out of IOT game](https://www.peerlyst.com/posts/if-you-buy-pki-you-won-t-be-booted-out-of-iot-game-madjid-nakhjiri?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Madjid Nakhjiri
+- [Popular attacker tools & techniques: survey results](https://www.peerlyst.com/posts/popular-attacker-tools-and-techniques-survey-results-bart-blaze?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Bart P
+- [EAS-SEC. Oracle PeopleSoft Security Configuration. Part 3: Default Accounts](https://www.peerlyst.com/posts/eas-sec-oracle-peoplesoft-security-configuration-part-3-default-accounts-nadezhda-krivdyuk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Nadine Krivdyuk
+- [Oracle ADRCI: Controls For Auto Purging Those Old Alerts](https://www.peerlyst.com/posts/oracle-adrci-controls-for-auto-puring-those-old-alerts-arthur-kettelhut?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Arthur Kettelhut
+- [A list of static analysis tools for Portable Executable (PE) files](https://www.peerlyst.com/posts/a-list-of-static-analysis-tools-for-portable-executable-pe-files-susan-parker?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Susan Parker
+- [US Information Security Resources](https://www.peerlyst.com/posts/information-security-resources-dennis-leber?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Dennis Leber
+- [Learning network traffic analysis - resources to help you learn how to analyze a stream](https://www.peerlyst.com/posts/learning-network-traffic-analysis-resources-to-help-you-learn-how-to-analyze-a-stream-1337mark?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By 1337Mark
+- [Life-Cycle of a Security Gap](https://www.peerlyst.com/posts/life-cycle-of-a-security-gap-gary-hayslip-cissp-cisa-crisc-ccsk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Gary Hayslip
+- [Windows 10 security wiki](https://www.peerlyst.com/posts/windows-10-security-wiki-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Guurhart
+- [What is an embedded system?](https://www.peerlyst.com/posts/what-is-an-embedded-system-martin-thompson?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Martin Thompson
+- [ADCRI Let's create an incident package](https://www.peerlyst.com/posts/adcri-let-s-create-an-incident-package-arthur-kettelhut?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Arthur Kettelhut
 
 
 
@@ -61,6 +66,9 @@ Your InfoSec Career
 - [On the Shoulders of InfoSec Giants](https://www.peerlyst.com/posts/on-the-shoulders-of-infosec-giants-andrew-douma?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Andrew Douma‍
 - [Certification Path, Study Plan For The CISM Exam](https://www.peerlyst.com/posts/certification-path-study-plan-for-the-cism-exam-jon-snurka?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Jon Snurka‍
 - [ISACA CISM: Why you should do it and how to pass the certification exam!](https://www.peerlyst.com/posts/isaca-cism-why-you-should-do-it-and-how-to-pass-the-certification-exam-claudio-dodt?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Cláudio Dodt
+- [Closing the Talent Gap](https://www.peerlyst.com/posts/closing-the-talent-gap-alan-wong?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Alan Wong
+- [While we wait for the next big hack to draw everyone's attention to security, do this](https://www.peerlyst.com/posts/while-we-wait-for-the-next-big-hack-to-draw-everyone-s-attention-to-security-do-this-benjamin-infosec?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Benjamin Infosec
+- [The InfoSec Mentors Project](https://www.peerlyst.com/posts/the-infosec-mentors-project-jimmy-vo?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Jimmy Vo
 
 CISO
 - [CISO Playbook For Handling a Suspected Data Breach](https://www.peerlyst.com/posts/ciso-playbook-for-handling-a-suspected-data-breach-1337mark?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By 1337Mark
@@ -171,6 +179,9 @@ Langsec
 Medical Devices
 - [A Historic Timeline of Medical Device Security Research](https://www.peerlyst.com/posts/a-historic-timeline-of-medical-device-security-research-karl-m-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Karl M.
 
+Mobile
+- [Securing an Android Phone or Tablet](https://www.peerlyst.com/posts/securing-an-android-phone-or-tablet-andrew-douma?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Andrew Douma
+
 Municipal(City)
 - [Securing Your Municipal Infrastructure](https://www.peerlyst.com/posts/securing-your-municipal-infrastructure?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Victor Wong
 
@@ -243,15 +254,18 @@ Risk
 - [Step 2: Identify Key Stakeholders and Leaders](https://www.peerlyst.com/posts/step-2-identify-key-stakeholders-and-leaders-brian-beyst-mba?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Brian Beyst‍
 - [A Threat Modeling Wiki](https://www.peerlyst.com/posts/a-threat-modeling-wiki-nicole-lamoureux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Nicole Lamoureux‍
 - [Assessing Risk - Helping the SMB market understand](https://www.peerlyst.com/posts/assessing-risk-helping-the-smb-market-understand-rob-chaykoski?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Rob Chaykoski‍
+- [Security Metrics-Risk Assessments](https://www.peerlyst.com/posts/security-metrics-risk-assessments-rob-chaykoski?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Rob Chaykoski
 
 SCADA
 - [ICS-SCADA Cybersecurity Resources](https://www.peerlyst.com/posts/ics-scada-cybersecurity-resources-andrew-carts) By Andrew Carts‍
+- [SCADA Wiki](https://www.peerlyst.com/posts/scada-wiki-nicole-lamoureux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Nicole Lamoureux
 
 Security Certificates
 - [Security Niblets: PKI Digital Certificates - The Chains That Bind](https://www.peerlyst.com/posts/security-niblets-pki-digital-certificates-the-chains-that-bind-bryan-sowell-cissp?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Bryan Sowell, CISSP
 - [How To Move Your App From HTTP to HTTPS](https://www.peerlyst.com/posts/how-to-move-your-app-from-http-to-https?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Puja Kamath
 - [Example of Client Certificate Usage - Securing WP Admin](https://www.peerlyst.com/posts/example-of-client-certificate-usage-securing-wp-admin-dave-howe?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dave Howe
 - [CertUtil –the little engine that could (Part 1)](https://www.peerlyst.com/posts/certutil-the-little-engine-that-could-part-1-bryan-sowell-cissp?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Bryan Sowell, CISSP‍
+- [Certificate Authorities are now required to check your CAA record before issuing TLS certificates](https://www.peerlyst.com/posts/certificate-authorities-are-now-required-to-check-your-caa-record-before-issuing-tls-certificates-boris-karamazin?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Boris Karamazin
 
 Security Operation Centers
 - [CISO and SOC Guide: Detecting and Stopping Data Exfiltration Via DNS](https://www.peerlyst.com/posts/ciso-and-soc-guide-detecting-and-stopping-data-exfiltration-via-dns-s-delano?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By S. Delano
@@ -324,12 +338,15 @@ User Awareness
 Vehicle Security
 - [Resource: List of Car Hacking Tools, Car Security Tools, and Car Security Resources](https://www.peerlyst.com/posts/resource-list-of-car-hacking-tools-car-security-tools-and-car-security-resources-ben-ferris?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Ben Ferris
 
+Virtual Lab
+- [The Avatar Project : Architecting a Multi-Purpose virtual lab environment](https://www.peerlyst.com/posts/the-avatar-project-architecting-a-multi-purpose-virtual-lab-environment-tony-robinson-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Tony Robinson
+
 Vulnerability Management/Disclosure
 - [Tracking or Disclosing Vulnerabilities in 2017: How to Track Them and Where to Disclose Them](https://www.peerlyst.com/posts/tracking-or-disclosing-vulnerabilities-in-2017-how-to-track-them-and-where-to-disclose-them-1337mark?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By 1337mark
 - [Hardware/Software Vendor Playbook: Handling Vulnerabilites Found in Your Products After Launch](https://www.peerlyst.com/posts/hardware-software-vendor-playbook-handling-vulnerabilities-found-in-your-products-after-launch-ron-hardy?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Ron Hardy
 - [Resource: An Up To Date List Of Bug Bounty Programs, Reward Systems, And Security Acknowledgments](https://www.peerlyst.com/posts/resource-an-up-to-date-list-of-bug-bounty-programs-reward-systems-security-acknowledgments?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon Houmann
 - [Implementing ERP Vulnerability Management Process: Part 1](https://www.peerlyst.com/posts/implementing-erp-vulnerability-management-process-part-1-mikhail-rakutko?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Mikhail Rakutko
-- [Security Information And Event Management (SIEM): A Detailed Explanation](https://www.peerlyst.com/posts/security-information-and-event-management-siem-a-detailed-explanation-balaji-n-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Balaji N.
+- [Implementing SAP Vulnerability Management Process. Part 3. Vulnerability Analysis](https://www.peerlyst.com/posts/implementing-sap-vulnerability-management-process-part-3-vulnerability-analysis-mikhail-rakutko?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Michael Rakutko
 
 Vulnerability Scanners
 - [Searching Intelligently with VirusTotal Intelligence Search](https://www.peerlyst.com/posts/searching-intelligently-with-virustotal-intelligence-search-abhinav-singh?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Abhinav Singh
