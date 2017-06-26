@@ -4,20 +4,52 @@ Here I have gathered numerous Information Security Resource Articles from the we
 
 **NEW** 
 
-- [Transferring Backdoor Payloads with BMP Image Pixels](https://www.peerlyst.com/posts/transferring-backdoor-payloads-with-bmp-image-pixels-damon-mohammadbagher?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Damon Mohammadbagher
-- [New essential pentest tool - WHID Injector: How to Bring HID Attacks to the Next Level](https://www.peerlyst.com/posts/whid-injector-how-to-bring-hid-attacks-to-the-next-level-karl-m-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Karl M.
-- [How To Put Any Android Smartphone Into Monitor Mode Using Custom Script Without bcmon](https://www.peerlyst.com/posts/how-to-put-any-android-smartphone-into-monitor-mode-using-custom-script-without-bcmon-kali-linux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By kali linux
-- [If you buy PKI, you won't be booted out of IOT game](https://www.peerlyst.com/posts/if-you-buy-pki-you-won-t-be-booted-out-of-iot-game-madjid-nakhjiri?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Madjid Nakhjiri
-- [Popular attacker tools & techniques: survey results](https://www.peerlyst.com/posts/popular-attacker-tools-and-techniques-survey-results-bart-blaze?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Bart P
-- [EAS-SEC. Oracle PeopleSoft Security Configuration. Part 3: Default Accounts](https://www.peerlyst.com/posts/eas-sec-oracle-peoplesoft-security-configuration-part-3-default-accounts-nadezhda-krivdyuk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Nadine Krivdyuk
-- [Oracle ADRCI: Controls For Auto Purging Those Old Alerts](https://www.peerlyst.com/posts/oracle-adrci-controls-for-auto-puring-those-old-alerts-arthur-kettelhut?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Arthur Kettelhut
-- [A list of static analysis tools for Portable Executable (PE) files](https://www.peerlyst.com/posts/a-list-of-static-analysis-tools-for-portable-executable-pe-files-susan-parker?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Susan Parker
-- [US Information Security Resources](https://www.peerlyst.com/posts/information-security-resources-dennis-leber?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Dennis Leber
-- [Learning network traffic analysis - resources to help you learn how to analyze a stream](https://www.peerlyst.com/posts/learning-network-traffic-analysis-resources-to-help-you-learn-how-to-analyze-a-stream-1337mark?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By 1337Mark
-- [Life-Cycle of a Security Gap](https://www.peerlyst.com/posts/life-cycle-of-a-security-gap-gary-hayslip-cissp-cisa-crisc-ccsk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Gary Hayslip
-- [Windows 10 security wiki](https://www.peerlyst.com/posts/windows-10-security-wiki-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Guurhart
-- [What is an embedded system?](https://www.peerlyst.com/posts/what-is-an-embedded-system-martin-thompson?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Martin Thompson
-- [ADCRI Let's create an incident package](https://www.peerlyst.com/posts/adcri-let-s-create-an-incident-package-arthur-kettelhut?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Arthur Kettelhut
+List of public port scanner websites By Karl M.‍ 
+Resource: You’re Better Off... With a Backup. By Nicole Lamoureux‍ 
+The Life-Cycle Process of a Security Gap (Part 1) By Gary Hayslip‍ 
+Security in a start-up. Making every dollar matter. By Benjamin Infosec‍ 
+List of sites and services that scan the entire Internet and publish results By Claus Cramon Houmann‍ 
+15 minute video - NIST Cybersecurity Framework Overview By mesbernard@gmail.com‍ 
+20 Cybersecurity Questions for Executives and the Board of Directors By mesbernard@gmail.com‍ 
+WannaCry no more: ransomware worm IOC's, Tor C2 and technical analysis + SIEM rules By Andrii Bezverkhyi‍ 
+Trends in cybersecurity/cybercrime 1999 - 2020 By mesbernard@gmail.com‍
+Communication Across The Ranges... By Chris Roberts‍ 
+CISO brief: The watertight case for application whitelisting By 1337Mark‍ 
+#WannaCry and the Rise and Fall of the Firewall By ian.tibble@seven-stones.biz‍ 
+GDPR: Forget the Damned Fines, Worry About Staying in Business! By David Froud‍ 
+Procedure: Creating, Maintaining a Threat Scorecard used for Threat Modeling and Risk Management By mesbernard@gmail.com‍
+A list of Application whitelisting solutions By S. Delano‍ 
+The Life-Cycle Process of a Security Gap (Part 2) By Gary Hayslip‍ 
+Two top Cybersecurity challenges to hiring talented people, #1. salary and #2. proven experience. By mesbernard@gmail.com‍
+Rugged DevOps, DevSecOps, and Implementation By ThreatModeler‍ 
+OWASP Juice Shop Vulnerable Webapp By Stuart Winter-Tear‍ 
+Resource: The how to pass an exam/certification and study guide Wiki By Peerlyst‍ 
+12 Essential Cybersecurity Program Management Processes By mesbernard@gmail.com‍
+Climbing Mount WebAppSec – ZAP Directory Traversal By Stuart Winter-Tear‍ 
+Pentesting on crack: Automating the Empire with the Death Star By Karl M.‍ 
+EAS-SEC. Oracle PeopleSoft Security Configuration. Part 4: Unnecessary Functionality By Nadine Krivdyuk‍ 
+Learning how to write regular expressions - a collection of resources By Susan Parker‍ 
+GDPR: Does the ‘Right to Erasure’ Include Backups? By David Froud‍ 
+Links and Resources for getting started with ARM Assembly and Exploitation By Nitesh Malviya‍ 
+How to communicate the concept of cyber-security maturity. By Ed Snodgrass‍ 
+334 zero-days were used in APT attacks since 2006 By Valery Marchuk‍ 
+Climbing Mount WebAppSec – Discovering Directories & Files with ZAP By Stuart Winter-Tear‍ 
+Cybersecurity Professionals: Don’t Change by Not Changing at All By David Froud‍ 
+Blue team guide: Can and should you block outbound ICMPv4 from your environments? By Guurhart‍ 
+Resource: Pentesting Wiki By Nicole Lamoureux‍ 
+CISOs: Be careful of how much trust you put in your Mac Address whitelisting/Port Security By S. Delano‍ 
+Study Shows Personal Identifiable Information Found on Resold Electronics By ERI‍ 
+Probable-Wordlists - (up to) 20 GB of real leaked passwords sorted by popularity, not alphabetically By Ben B‍ 
+Peerlyst Reviews Wiki: InfoSec Products, Services, Books & Trainings By Peerlyst‍ 
+General Data Protection Regulation GAP Assessment By mesbernard@gmail.com‍
+DPAT: New Domain Password Audit Tool By S. Delano‍ 
+A huge list of Windows log file Event IDs for detecting lateral movement By S. Delano‍ 
+NIS Directive 1148/2016 summary in a single slide By Cristian Driga‍ 
+Improving Security Culture: Don't Make Awareness Training A Punishment By Dan Lohrmann‍ 
+
+
+
+
 
 
 
@@ -78,6 +110,7 @@ CISO
 - [Information Security Outsourcing: A CISO's Perspective](https://www.peerlyst.com/posts/information-security-outsourcing-a-ciso-s-perspective-george-moraetes?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By George Moraetes
 - [Resource: How To Avoid Data Breaches And Lawsuits, A Manual For CISO's](https://www.peerlyst.com/posts/resource-how-to-avoid-data-breaches-and-lawsuits-a-manual-for-cisos-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Guurhart
 - [Cyber Evangelism 101](https://www.peerlyst.com/posts/cyber-evangelism-101-gary-hayslip-cissp-cisa-crisc-ccsk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Gary Hayslip‍
+- [Life-Cycle of a Security Gap](https://www.peerlyst.com/posts/life-cycle-of-a-security-gap-gary-hayslip-cissp-cisa-crisc-ccsk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Gary Hayslip
 
 Compliance
 - [Everything You Need to Know About NERC CIP Compliance](https://www.peerlyst.com/posts/everything-you-need-to-know-about-nerc-cip-compliance-dave-millier-crisc?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dave Millier, CRISC
@@ -98,6 +131,20 @@ Database Security
 
 DNS
 - [DNSSEC Signing Revisited](https://www.peerlyst.com/posts/dnssec-signing-revisited-jim-fenton?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Jim Fenton
+
+Digital Forensics and Incident Response
+- [Learning network traffic analysis - resources to help you learn how to analyze a stream](https://www.peerlyst.com/posts/learning-network-traffic-analysis-resources-to-help-you-learn-how-to-analyze-a-stream-1337mark?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By 1337Mark
+- [Some Useful Forensics Tools For Your Forensics Investigation](https://www.peerlyst.com/posts/some-useful-forensics-tools-for-your-forensics-investigation-adminadmin?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By AdminAdmin
+- [How to clean out golden tickets after a successful attack on your active directory](https://www.peerlyst.com/posts/how-to-clean-out-golden-tickets-after-a-succesful-attack-on-your-active-directory-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Guurhart
+- [Cybercrime Report Template](https://www.peerlyst.com/posts/cybercrime-report-template-bart-blaze?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Bart Blaze
+- [Obtaining WPA-PSK Keys on Windows 7, 8, and 10 for Digital Forensics (Or Evil and Fun](https://www.peerlyst.com/posts/obtaining-wpa-psk-keys-on-windows-7-8-and-10-for-digital-forensics-or-evil-and-fun-martin-boller?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Martin Boller
+Incident Response
+- [Resource: A Free to Use Scenario To Test Your Incident Response Process Against a DOS Attack](https://www.peerlyst.com/posts/resource-a-free-to-use-scenario-to-test-your-incident-response-process-against-a-dos-attack-claus-cramon?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon
+- [CSIRT: Classifty The Severity Of A Breach](https://www.peerlyst.com/posts/csirt-classifying-the-severity-of-a-breach-michael-ball?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Michael Ball
+- [Resource: Proactive Ransomware Defenses and Reactive Incident Response Against Ransomware Infection](https://www.peerlyst.com/posts/the-ransomware-invasion-and-some-defenses-against-these-threats?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon Houmann
+- [Guidance For Incident Response Play Books](https://www.peerlyst.com/posts/guidance-for-incident-response-play-books?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Michael Hamblin
+- [Resource: Free Basic Template Information Security Incident Management Policy and Procedure](https://www.peerlyst.com/posts/resource-free-basic-template-information-security-incident-management-policy-and-procedure-sunil-kuamr?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Sunil Kuamr
+- [How To Build And Run A SOC For Incident Response Play Books](https://www.peerlyst.com/posts/how-to-build-and-run-a-soc-for-incident-response-and-enterprise-defensibility-a-collection-of-resources?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon Houmann
 
 Encryption
 - [Fingerprinting HTTPS Traffic By Looking At Patterns And Unencrypted Parts Of The Traffic](https://www.peerlyst.com/posts/fingerprinting-https-traffic-by-looking-at-patterns-and-unencrypted-parts-of-the-traffic-karl-m-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Karl M.
@@ -125,12 +172,6 @@ Free Reading/Training Resources
 - [Free Training: Threat Landscape - IOT, Cloud, and Mobile](https://www.peerlyst.com/posts/free-training-threat-landscape-iot-cloud-and-mobile-peerlyst?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Peerlyst
 - [Second Community eBook: Essentials Of Cybersecurity](https://www.peerlyst.com/posts/second-community-ebook-essentials-of-cybersecurity-limor-elbaz?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Limor Elbaz
 
-Forensics
-- [Some Useful Forensics Tools For Your Forensics Investigation](https://www.peerlyst.com/posts/some-useful-forensics-tools-for-your-forensics-investigation-adminadmin?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By AdminAdmin
-- [How to clean out golden tickets after a successful attack on your active directory](https://www.peerlyst.com/posts/how-to-clean-out-golden-tickets-after-a-succesful-attack-on-your-active-directory-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Guurhart
-- [Cybercrime Report Template](https://www.peerlyst.com/posts/cybercrime-report-template-bart-blaze?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Bart Blaze
-- [Obtaining WPA-PSK Keys on Windows 7, 8, and 10 for Digital Forensics (Or Evil and Fun](https://www.peerlyst.com/posts/obtaining-wpa-psk-keys-on-windows-7-8-and-10-for-digital-forensics-or-evil-and-fun-martin-boller?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Martin Boller
-
 Guides
 - [How to clean out golden tickets after a successful attack on your active directory](https://www.peerlyst.com/posts/how-to-clean-out-golden-tickets-after-a-succesful-attack-on-your-active-directory-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Guurhart
 - [Security Automation Best Practices - A Free eBook](https://www.peerlyst.com/posts/security-automation-best-practices-a-free-ebook-gwen-betts?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Gwen Betts
@@ -147,6 +188,7 @@ Guides
 - [Enumerating JSONS Form Command Line](https://www.peerlyst.com/posts/enumerating-jsons-form-command-line-zeev-glozman?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Zeev Glozman
 - [Full Disk Encryption with VeraCrypt](https://www.peerlyst.com/posts/full-disk-encryption-with-veracrypt-andrew-douma) By Andrew Douma‍
 - [How to safely use Enterprise File Sync and Share solutions](https://www.peerlyst.com/posts/how-to-safely-use-efss-solution-dawid-balut?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dawid Balut
+- [US Information Security Resources](https://www.peerlyst.com/posts/information-security-resources-dennis-leber?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Dennis Leber
 
 Hacking
 - [The History of Hacking Wiki](https://www.peerlyst.com/posts/the-history-of-hacking-nicole-lamoureux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Nicole Lamoureux‍
@@ -157,13 +199,6 @@ Identity Management
 - [Treat Your Key Pairs Like Passwords](https://www.peerlyst.com/posts/treat-your-key-pairs-like-passwords-michael-ball?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Michael Ball
 - [UX Comparison of IOS Authenticator Apps](https://www.peerlyst.com/posts/ux-comparison-of-ios-authenticator-apps-per-thorsheim-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Per Thorsheim
 
-Incident Response
-- [Resource: A Free to Use Scenario To Test Your Incident Response Process Against a DOS Attack](https://www.peerlyst.com/posts/resource-a-free-to-use-scenario-to-test-your-incident-response-process-against-a-dos-attack-claus-cramon?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon
-- [CSIRT: Classifty The Severity Of A Breach](https://www.peerlyst.com/posts/csirt-classifying-the-severity-of-a-breach-michael-ball?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Michael Ball
-- [Resource: Proactive Ransomware Defenses and Reactive Incident Response Against Ransomware Infection](https://www.peerlyst.com/posts/the-ransomware-invasion-and-some-defenses-against-these-threats?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon Houmann
-- [Guidance For Incident Response Play Books](https://www.peerlyst.com/posts/guidance-for-incident-response-play-books?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Michael Hamblin
-- [Resource: Free Basic Template Information Security Incident Management Policy and Procedure](https://www.peerlyst.com/posts/resource-free-basic-template-information-security-incident-management-policy-and-procedure-sunil-kuamr?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Sunil Kuamr
-
 Install Guides
 - [Resource: PGP Installation Guides for OSX, Windows, and Linux for Newcomers](https://www.peerlyst.com/posts/resource-pgp-installation-guides-for-osx-windows-and-linux-for-newcomers-karl-m-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Karl M.
 
@@ -172,6 +207,7 @@ The Internet of Things
 - [The IOT Files: Culture](https://www.peerlyst.com/posts/the-iot-files-culture-antonio-ieran?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Antonio Ieran
 - [The IOT Files: IOT and Security](https://www.peerlyst.com/posts/the-iot-files-iot-and-security-antonio-ieran?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Antonio Ieran
 - [The Internet of Things is Evolving and Security Engineers Will Need To Keep Up](https://www.peerlyst.com/posts/the-internet-of-things-is-evolving-and-security-engineers-will-need-to-keep-up-brian-russell?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Brian Russell
+- [If you buy PKI, you won't be booted out of IOT game](https://www.peerlyst.com/posts/if-you-buy-pki-you-won-t-be-booted-out-of-iot-game-madjid-nakhjiri?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Madjid Nakhjiri
 
 Langsec
 - [Langsec Implications For Security](https://www.peerlyst.com/posts/langsec-implications-for-security?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Rob Lewis
@@ -200,6 +236,11 @@ Open Source Intelligence
 - [OSINT And Threat Intelligence Chrome Plugin To Look Up IPS, FQDNS, MD5, SHA2, and CVES](https://www.peerlyst.com/posts/osint-and-threat-intelligence-chrome-plugin-to-look-up-ips-fqdns-md5-sha2-and-cves-matt-brewer?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Matt Brewer
 - [Threat Intelligence Hunter: An Open Source Project For Threat Hunting and Information Gathering](https://www.peerlyst.com/posts/threat-intelligence-hunter-an-open-source-project-for-threat-hunting-and-information-gathering-abhinav-singh?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Abhinav Singh
 
+Oracle
+- [EAS-SEC. Oracle PeopleSoft Security Configuration. Part 3: Default Accounts](https://www.peerlyst.com/posts/eas-sec-oracle-peoplesoft-security-configuration-part-3-default-accounts-nadezhda-krivdyuk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Nadine Krivdyuk
+- [Oracle ADRCI: Controls For Auto Purging Those Old Alerts](https://www.peerlyst.com/posts/oracle-adrci-controls-for-auto-puring-those-old-alerts-arthur-kettelhut?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Arthur Kettelhut
+- [ADCRI Let's create an incident package](https://www.peerlyst.com/posts/adcri-let-s-create-an-incident-package-arthur-kettelhut?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Arthur Kettelhut
+
 Peerlyst Website Resources
 - [A Template For Creating A Training Course On Peerlyst!](https://www.peerlyst.com/posts/a-template-for-creating-a-training-course-on-peerlyst-peerlyst?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Peerlyst
 - [A Template For Peerlyst Product Reviews](https://www.peerlyst.com/posts/a-template-for-peerlyst-product-reviews-peerlyst?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Peerlyst
@@ -227,6 +268,9 @@ Pentesting
 - [VoIP Penetration Testing](https://www.peerlyst.com/posts/voip-penetration-testing-abhinav-singh?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Abhinav Singh‍
 - [The set-up a malware/pentesting lab Wiki](https://www.peerlyst.com/posts/the-set-up-a-malware-pentesting-lab-wiki-peerlyst?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Peerlyst‍
 - [Pentest tools: LFI scanners and exploiters](https://www.peerlyst.com/posts/pentest-tools-lfi-scanners-and-exploiters-karl-m-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Karl M.‍
+- [Transferring Backdoor Payloads with BMP Image Pixels](https://www.peerlyst.com/posts/transferring-backdoor-payloads-with-bmp-image-pixels-damon-mohammadbagher?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Damon Mohammadbagher
+- [New essential pentest tool - WHID Injector: How to Bring HID Attacks to the Next Level](https://www.peerlyst.com/posts/whid-injector-how-to-bring-hid-attacks-to-the-next-level-karl-m-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Karl M.
+- [How To Put Any Android Smartphone Into Monitor Mode Using Custom Script Without bcmon](https://www.peerlyst.com/posts/how-to-put-any-android-smartphone-into-monitor-mode-using-custom-script-without-bcmon-kali-linux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By kali linux
 
 Privacy
 - [Some Small Things You Can Do To Preserve a Little Privacy](https://www.peerlyst.com/posts/some-small-things-you-can-do-to-preserve-a-little-privacy-online-today-peter-stone?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Peter Stone
@@ -328,6 +372,8 @@ InfoSec Tools
 - [Cooperative Infrastructure For Security And CTF Teams](https://www.peerlyst.com/posts/cooperative-infrastructure-for-security-and-ctf-teams?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dan Borges
 - [[Tool] Psychohasher: All Purpose Hashing Utility](https://www.peerlyst.com/posts/tool-psychohasher-all-purpose-hashing-utility-animesh-shaw?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Animesh Shaw
 - [Permanently adding attack vectors in Burp Suite](https://www.peerlyst.com/posts/permanently-adding-attack-vectors-in-burp-suite-niranjan-butola) By Niranjan Butola‍
+ [Popular attacker tools & techniques: survey results](https://www.peerlyst.com/posts/popular-attacker-tools-and-techniques-survey-results-bart-blaze?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Bart P
+- [A list of static analysis tools for Portable Executable (PE) files](https://www.peerlyst.com/posts/a-list-of-static-analysis-tools-for-portable-executable-pe-files-susan-parker?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Susan Parker
 
 User Awareness
 - [Approaching User Awareness](https://www.peerlyst.com/posts/approaching-user-awareness?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Javvad Malik
@@ -337,6 +383,7 @@ User Awareness
 
 Vehicle Security
 - [Resource: List of Car Hacking Tools, Car Security Tools, and Car Security Resources](https://www.peerlyst.com/posts/resource-list-of-car-hacking-tools-car-security-tools-and-car-security-resources-ben-ferris?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Ben Ferris
+- [What is an embedded system?](https://www.peerlyst.com/posts/what-is-an-embedded-system-martin-thompson?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Martin Thompson
 
 Virtual Lab
 - [The Avatar Project : Architecting a Multi-Purpose virtual lab environment](https://www.peerlyst.com/posts/the-avatar-project-architecting-a-multi-purpose-virtual-lab-environment-tony-robinson-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Tony Robinson
@@ -355,3 +402,6 @@ Vulnerability Scanners
 
 Web Site Security
 - [Simply Put: The Differences Between HPKP, HSTS, And CSP.](https://www.peerlyst.com/posts/simply-put-the-differences-between-hpkp-hsts-and-csp?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon Houmann
+
+Windows
+- [Windows 10 security wiki](https://www.peerlyst.com/posts/windows-10-security-wiki-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Guurhart
