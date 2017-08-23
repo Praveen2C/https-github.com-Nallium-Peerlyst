@@ -4,35 +4,42 @@ Here I have gathered numerous Information Security Resource Articles from the we
 
 **NEW** 
 
-- [Rugged DevOps, DevSecOps, and Implementation](https://www.peerlyst.com/posts/rugged-devops-devsecops-and-implementation-threatmodeler?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By ThreatModeler‍ 
-- [OWASP Juice Shop Vulnerable Webapp](https://www.peerlyst.com/posts/owasp-juice-shop-vulnerable-webapp-stuart-winter-tear?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Stuart Winter-Tear‍ 
-- [Resource: The how to pass an exam/certification and study guide Wiki](https://www.peerlyst.com/posts/resource-the-how-to-pass-an-exam-certification-and-study-guide-wiki-peerlyst?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Peerlyst‍ 
-- [12 Essential Cybersecurity Program Management Processes](https://www.peerlyst.com/posts/12-essential-cybersecurity-program-management-processes-mesbernard-gmail-com?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By mesbernard@gmail.com‍
-- [Climbing Mount WebAppSec – ZAP Directory Traversal](https://www.peerlyst.com/posts/climbing-mount-webappsec-zap-directory-traversal-stuart-winter-tear?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Stuart Winter-Tear‍ 
-- [Pentesting on crack: Automating the Empire with the Death Star](https://www.peerlyst.com/posts/pentesting-on-crack-automating-the-empire-with-the-death-star-karl-m-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Karl M.‍ 
-- [EAS-SEC. Oracle PeopleSoft Security Configuration. Part 4: Unnecessary Functionality](https://www.peerlyst.com/posts/eas-sec-oracle-peoplesoft-security-configuration-part-4-unnecessary-functionality-nadezhda-krivdyuk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Nadine Krivdyuk‍ 
-- [Learning how to write regular expressions - a collection of resources](https://www.peerlyst.com/posts/learning-how-to-write-regular-expressions-a-collection-of-resources-susan-parker?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Susan Parker‍ 
-- [GDPR: Does the ‘Right to Erasure’ Include Backups?](https://www.peerlyst.com/posts/gdpr-does-the-right-to-erasure-include-backups-david-froud?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By David Froud‍ 
-- [Links and Resources for getting started with ARM Assembly and Exploitation](https://www.peerlyst.com/posts/links-and-resources-for-getting-started-with-arm-assembly-and-exploitation-nitesh-malviya?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Nitesh Malviya‍ 
-- [How to communicate the concept of cyber-security maturity.](https://www.peerlyst.com/posts/why-do-you-measure-cybersecurity-maturity-ed-snodgrass?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Ed Snodgrass‍ 
-- [334 zero-days were used in APT attacks since 2006](https://www.peerlyst.com/posts/334-zero-days-were-used-in-apt-attacks-since-2006-valery-marchuk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Valery Marchuk‍ 
-- [Climbing Mount WebAppSec – Discovering Directories & Files with ZAP](https://www.peerlyst.com/posts/climbing-mount-webappsec-discovering-directories-and-files-with-zap-stuart-winter-tear?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Stuart Winter-Tear‍ 
-- [Cybersecurity Professionals: Don’t Change by Not Changing at All](https://www.peerlyst.com/posts/cybersecurity-professionals-don-t-change-by-not-changing-at-all-david-froud?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By David Froud‍ 
-- [Blue team guide: Can and should you block outbound ICMPv4 from your environments?](https://www.peerlyst.com/posts/blue-team-guide-can-and-should-you-block-outbound-icmp-from-your-environments-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Guurhart‍ 
-- [Resource: Pentesting Wiki](https://www.peerlyst.com/posts/resource-pentesting-wiki-nicole-lamoureux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Nicole Lamoureux‍ 
-- [CISOs: Be careful of how much trust you put in your Mac Address whitelisting/Port Security](https://www.peerlyst.com/posts/cisos-be-careful-of-how-much-trust-you-put-in-your-mac-address-whitelisting-port-security-s-delano?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By S. Delano‍ 
-- [Study Shows Personal Identifiable Information Found on Resold Electronics](https://www.peerlyst.com/posts/study-shows-personal-identifiable-information-found-on-resold-electronics-eri?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By ERI‍ 
-- [Probable-Wordlists - (up to) 20 GB of real leaked passwords sorted by popularity, not alphabetically](https://www.peerlyst.com/posts/probable-wordlists-up-to-20-gb-of-real-leaked-passwords-sorted-by-popularity-not-alphabetically-ben-berkowitz?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Ben B‍ 
-- [Peerlyst Reviews Wiki: InfoSec Products, Services, Books & Trainings](https://www.peerlyst.com/posts/infosec-products-services-books-and-trainings-reviews-wiki-peerlyst?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Peerlyst‍ 
-- [General Data Protection Regulation GAP Assessment](https://www.peerlyst.com/posts/general-data-protection-regulation-gap-assessment-mesbernard-gmail-com?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By mesbernard@gmail.com‍
-- [DPAT: New Domain Password Audit Tool](https://www.peerlyst.com/posts/dpat-new-domain-password-audit-tool-s-delano?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By S. Delano‍ 
-- [A huge list of Windows log file Event IDs for detecting lateral movement](https://www.peerlyst.com/posts/a-huge-list-of-windows-log-file-event-ids-for-detecting-lateral-movement-s-delano?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By S. Delano‍ 
-- [NIS Directive 1148/2016 summary in a single slide](https://www.peerlyst.com/posts/nis-directive-1148-2016-summary-in-a-sigle-slide-cristian-driga?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Cristian Driga‍ 
-- [Improving Security Culture: Don't Make Awareness Training A Punishment](https://www.peerlyst.com/posts/improving-security-culture-don-t-make-awareness-training-a-punishment-dan-lohrmann-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Dan Lohrmann‍ 
-
-
-
-
+- [CISO MISSION ORDER 1.0](https://www.peerlyst.com/posts/ciso-mission-order-1-0-gary-hayslip-cissp-cisa-crisc-ccsk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Gary Hayslip‍
+- [Building a WScript Emulator](https://www.peerlyst.com/posts/building-a-wscript-emulator-mischa-rodermond?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Mischa Rodermond‍
+- [InfoGraphic: Cybersecurity Defined](https://www.peerlyst.com/posts/infographic-cybersecurity-defined-mesbernard-gmail-com-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By mesbernard@gmail.com‍
+- [BSidesLV 2017: SMB Security presentation 'Robust Defense for the Rest of Us' - by @sm0kem](https://www.peerlyst.com/posts/bsideslv-2017-robust-defense-for-the-rest-of-us-by-sm0kem-russell-mosley?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Russell Mosley‍
+- [The purpose of ransomware](https://www.peerlyst.com/posts/the-purpose-of-ransomware-bart-blaze?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Bart P‍
+- [Resource: Free Computer Security Incident Response Plan Templates](https://www.peerlyst.com/posts/resource-free-computer-security-incident-response-plan-templates-alan-watkins?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Alan Watkins‍
+- [Tips for an Information Security Analyst/Pentester career -Episode 1:General and technical hints](https://www.peerlyst.com/posts/tips-for-for-an-information-security-analyst-pentester-career-episode-1-general-and-technical-hints-mattia-campagnano-13-years-experience-akron-oh?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Mattia Campagnano‍
+- [List of autorun keys / malware persistence Windows registry entries](https://www.peerlyst.com/posts/list-of-autorun-keys-malware-persistence-windows-registry-entries-benjamin-infosec?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Benjamin Infosec‍
+- [My Lecture Presentation - First Lecture from a series on Public Key Infrastructure](https://www.peerlyst.com/posts/my-lecture-presentation-first-lecture-from-a-series-on-public-key-infrastructure-alexander-raif?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Alexander Raif‍
+- [Historical correlation in ArcSight SIEM](https://www.peerlyst.com/posts/historical-correlation-in-arcsight-siem-soc-prime?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By SOC Prime‍
+- [NSM 101](https://www.peerlyst.com/posts/nsm-101-tony-robinson-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Tony Robinson‍
+- [Broken Authentication and Session Management – part Ⅰ](https://www.peerlyst.com/posts/broken-authentication-and-session-management-part-hari-charan?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Hari Charan‍
+- [Broken Authentication and Session Management – Session Fixation](https://www.peerlyst.com/posts/broken-authentication-and-session-management-session-fixation-hari-charan?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Hari Charan‍
+- [Stackhackr: A tool to show non-techies what malware can do](https://www.peerlyst.com/posts/stackhackr-a-tool-to-show-non-techies-what-malware-can-do-kimberly-crawley?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Kimberly Crawley‍
+- [Sharing secrets with containers using Custodia](https://www.peerlyst.com/posts/sharing-secrets-with-containers-using-custodia-alan-robertson?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Alan Robertson‍
+- [A list of open source, free and paid phishing campaign toolkits](https://www.peerlyst.com/posts/a-list-of-open-source-free-and-paid-phishing-campaign-toolkits-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Guurhart‍
+- [Resource: Tri-fold Brochures for CIS Critical Security Controls (CSC-1 through CSC-5)](https://www.peerlyst.com/posts/resource-tri-fold-brochures-for-cis-critical-security-controls-csc-1-through-csc-5-alan-watkins?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Alan Baban‍
+- [How to Run a GDPR Project](https://www.peerlyst.com/posts/how-to-run-a-gdpr-project-david-froud?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By David Froud‍
+- [Tips for an Information Security Analyst/Pentester career - Episode 5: Wireshark basics (part 1)](https://www.peerlyst.com/posts/tips-for-an-information-security-analyst-pentester-career-episode-5-wireshark-basics-part-1-mattia-campagnano-13-years-experience-akron-oh?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Mattia Campagnano‍
+- [Change Management: What information and fields should a change request contain?](https://www.peerlyst.com/posts/change-management-what-information-and-fields-should-a-change-request-contain-peerlyst?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Peerlyst‍
+- [The Dangers of Ghost & Zombie Assets](https://www.peerlyst.com/posts/the-dangers-of-ghost-and-zombie-assets-eri?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By ERI‍
+- [Tips for an Information Security Analyst/Pentester career - Episode 8: WebGoat](https://www.peerlyst.com/posts/tips-for-an-information-security-analyst-pentester-career-episode-8-webgoat-mattia-campagnano-13-years-experience-akron-oh?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Mattia Campagnano‍ 
+- [Procedure: Creating and Maintaining a Threat Scorecard to be used for Threat Modeling and Risk Management](https://www.peerlyst.com/posts/procedure-creating-maintaining-a-threat-scorecard-used-for-threat-modeling-and-risk-management-mesbernard-gmail-com) By mesbernard@gmail.com
+- [Tips for an Information Security Analyst/Pentester career - Episode 9: DVWA (SQL injection)](https://www.peerlyst.com/posts/tips-for-an-information-security-analyst-pentester-career-episode-9-dvwa-sql-injection-mattia-campagnano-13-years-experience-akron-oh?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Mattia Campagnano‍
+- [Want to Learn Python? - Functions, Explained](https://www.peerlyst.com/posts/want-to-learn-python-functions-explained-ben-berkowitz?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Ben B‍
+- [How to secure remote desktop protocol sessions](https://www.peerlyst.com/posts/how-to-secure-remote-desktop-protocol-sessions-s-delano?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By S. Delano‍
+- [Hostile subdomain takeover](https://www.peerlyst.com/posts/hostile-subdomain-takeover-ron-hardy?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Ron Hardy‍
+- [Manual Javascript Deobfuscation example](https://www.peerlyst.com/posts/manual-javascript-deobfuscation-example-mischa-rodermond?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Mischa Rodermond‍
+- [Want to Learn Python? Logic Part 1 - Boolean Logic and Operators](https://www.peerlyst.com/posts/want-to-learn-python-logic-part-1-boolean-logic-and-operators-ben-berkowitz?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Ben B‍
+- [A list of tools used to manage third party library dependencies and vulnerability identification](https://www.peerlyst.com/posts/a-list-of-tools-used-to-manage-third-party-library-dependencies-and-vulnerability-identification-peerlyst?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Peerlyst‍
+- [Tips for an Information Security Analyst/Pentester career - Episode 10: Metasploitable 2](https://www.peerlyst.com/posts/tips-for-an-information-security-analyst-pentester-career-episode-10-metasploitable-2-mattia-campagnano-13-years-experience-akron-oh?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Mattia Campagnano‍
+- [Want to Learn Python? Logic Part 2 - Conditional Formatting, If/Then/Else and Summary While Example](https://www.peerlyst.com/posts/want-to-learn-python-logic-part-2-conditional-formatting-if-then-else-and-summary-while-example-ben-berkowitz?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Ben B‍
+- [A curated list of relevant Security RSS feeds](https://www.peerlyst.com/posts/a-curated-list-of-relevant-security-rss-feeds-peerlyst?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Peerlyst‍
+- [Big advance against credential spear-phishing. One of the big threats we do not fight well](https://www.peerlyst.com/posts/big-advance-against-credential-spear-phishing-one-of-the-big-threats-we-do-not-fight-well-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Guurhart‍
+- [WMI wiki for offense and defense](https://www.peerlyst.com/posts/wmi-wiki-for-offense-and-defense-s-delano?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By S. Delano‍
+- [Tips for an Information Security Analyst/Pentester career - Episode 13: File Upload (DVWA)](https://www.peerlyst.com/posts/tips-for-an-information-security-analyst-pentester-career-episode-13-file-upload-dvwa-mattia-campagnano-13-years-experience-akron-oh?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Mattia Campagnano‍ 
 
 Ad Fraud
 - [Objective Comparison Of Ad Fraud Detection Technologies](https://www.peerlyst.com/posts/objective-comparison-of-ad-fraud-detection-technologies-dr-augustine-fou-cybersecurity-ad-fraud-researcher?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Dr. Augustine Fou, Cybersecurity Fraud Researcher
@@ -59,6 +66,7 @@ Application Security
 Awareness
 - [Cybersecurity Training Gamification: Fun Ways To Raise Awareness](https://www.peerlyst.com/posts/cybersecurity-training-gamification-fun-ways-to-raise-awareness-oscar-waterworth?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Oscar Waterworth
 - [Living In The Security Echo Chamber](https://www.peerlyst.com/posts/living-in-the-security-echo-chamber-tal-arad?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Tal Arad‍
+- [Improving Security Culture: Don't Make Awareness Training A Punishment](https://www.peerlyst.com/posts/improving-security-culture-don-t-make-awareness-training-a-punishment-dan-lohrmann-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Dan Lohrmann‍
 
 Backups
 - [Resource: You’re Better Off... With a Backup.](https://www.peerlyst.com/posts/resource-you-re-better-off-with-a-backup-nicole-lamoureux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Nicole Lamoureux‍ 
@@ -87,6 +95,7 @@ Your InfoSec Career
 - [While we wait for the next big hack to draw everyone's attention to security, do this](https://www.peerlyst.com/posts/while-we-wait-for-the-next-big-hack-to-draw-everyone-s-attention-to-security-do-this-benjamin-infosec?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Benjamin Infosec
 - [The InfoSec Mentors Project](https://www.peerlyst.com/posts/the-infosec-mentors-project-jimmy-vo?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Jimmy Vo
 - [Communication Across The Ranges...](https://www.peerlyst.com/posts/communication-across-the-ranges-chris-roberts?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Chris Roberts‍ 
+- [Resource: The how to pass an exam/certification and study guide Wiki](https://www.peerlyst.com/posts/resource-the-how-to-pass-an-exam-certification-and-study-guide-wiki-peerlyst?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Peerlyst‍ 
 
 CISO
 - [CISO Playbook For Handling a Suspected Data Breach](https://www.peerlyst.com/posts/ciso-playbook-for-handling-a-suspected-data-breach-1337mark?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By 1337Mark
@@ -101,11 +110,16 @@ CISO
 - [20 Cybersecurity Questions for Executives and the Board of Directors](https://www.peerlyst.com/posts/20-cybersecurity-questions-for-executives-and-the-board-of-directors-mesbernard-gmail-com?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By mesbernard@gmail.com‍ 
 - [CISO brief: The watertight case for application whitelisting](https://www.peerlyst.com/posts/ciso-brief-the-watertight-case-for-application-whitelisting-1337mark?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By 1337Mark‍ 
 - [The Life-Cycle Process of a Security Gap (Part 2)](https://www.peerlyst.com/posts/the-life-cycle-process-of-a-security-gap-part-2-gary-hayslip-cissp-cisa-crisc-ccsk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Gary Hayslip‍
+- [CISOs: Be careful of how much trust you put in your Mac Address whitelisting/Port Security](https://www.peerlyst.com/posts/cisos-be-careful-of-how-much-trust-you-put-in-your-mac-address-whitelisting-port-security-s-delano?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By S. Delano‍ 
 
 Compliance
 - [Everything You Need to Know About NERC CIP Compliance](https://www.peerlyst.com/posts/everything-you-need-to-know-about-nerc-cip-compliance-dave-millier-crisc?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dave Millier, CRISC
 - [GDPR: 5 Tips for meeting individuals’ rights](https://www.peerlyst.com/posts/gdpr-5-tips-for-meeting-individuals-rights-chris-zoladz?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Chris Zoladz‍
 - [GDPR: Forget the Damned Fines, Worry About Staying in Business!](https://www.peerlyst.com/posts/gdpr-forget-the-damned-fines-worry-about-staying-in-business-david-froud?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By David Froud‍ 
+- [GDPR: Does the ‘Right to Erasure’ Include Backups?](https://www.peerlyst.com/posts/gdpr-does-the-right-to-erasure-include-backups-david-froud?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By David Froud‍ 
+- [How to communicate the concept of cyber-security maturity.](https://www.peerlyst.com/posts/why-do-you-measure-cybersecurity-maturity-ed-snodgrass?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Ed Snodgrass‍ 
+- [Cybersecurity Professionals: Don’t Change by Not Changing at All](https://www.peerlyst.com/posts/cybersecurity-professionals-don-t-change-by-not-changing-at-all-david-froud?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By David Froud‍ 
+- [General Data Protection Regulation GAP Assessment](https://www.peerlyst.com/posts/general-data-protection-regulation-gap-assessment-mesbernard-gmail-com?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By mesbernard@gmail.com‍
 
 Cryptography
 - [Peerlyst Pathfinder Cryptography](https://www.peerlyst.com/posts/peerlyst-pathfinder-cryptography?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Shay Gueron
@@ -151,6 +165,7 @@ Firewalls
 - [List Of WAF Security Bypass Research](https://www.peerlyst.com/posts/list-of-waf-security-bypass-research-karl-m-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Karl M.
 - [Resource: Spam Firewalls, What is Behind The Name And A List Of Spam Firewall Products](https://www.peerlyst.com/posts/resource-spam-firewalls-what-is-behind-the-name-and-a-list-of-spam-firewall-products-1337mark?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By 1337mark
 - [Resource: A List Of Open Source Web Application Firewalls(WAFs)](https://www.peerlyst.com/posts/resource-a-list-of-open-source-web-application-firewalls-waf-s-s-delano?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By S. Delano
+- [Blue team guide: Can and should you block outbound ICMPv4 from your environments?](https://www.peerlyst.com/posts/blue-team-guide-can-and-should-you-block-outbound-icmp-from-your-environments-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Guurhart‍ 
 
 Frameworks
 - [15 minute video - NIST Cybersecurity Framework Overview](https://www.peerlyst.com/posts/15-minute-video-nist-cybersecurity-framework-overview-mesbernard-gmail-com-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By mesbernard@gmail.com‍
@@ -168,6 +183,7 @@ Free Reading/Training Resources
 - [The Complete List of InfoSec Related Cheat Sheets](https://www.peerlyst.com/posts/the-complete-list-of-infosec-related-cheat-sheets-claus-cramon?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon
 - [Free Training: Threat Landscape - IOT, Cloud, and Mobile](https://www.peerlyst.com/posts/free-training-threat-landscape-iot-cloud-and-mobile-peerlyst?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Peerlyst
 - [Second Community eBook: Essentials Of Cybersecurity](https://www.peerlyst.com/posts/second-community-ebook-essentials-of-cybersecurity-limor-elbaz?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Limor Elbaz
+- [Peerlyst Reviews Wiki: InfoSec Products, Services, Books & Trainings](https://www.peerlyst.com/posts/infosec-products-services-books-and-trainings-reviews-wiki-peerlyst?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Peerlyst‍ 
 
 Guides
 - [How to clean out golden tickets after a successful attack on your active directory](https://www.peerlyst.com/posts/how-to-clean-out-golden-tickets-after-a-succesful-attack-on-your-active-directory-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Guurhart
@@ -211,9 +227,16 @@ The Internet of Things
 - [The IOT Files: IOT and Security](https://www.peerlyst.com/posts/the-iot-files-iot-and-security-antonio-ieran?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Antonio Ieran
 - [The Internet of Things is Evolving and Security Engineers Will Need To Keep Up](https://www.peerlyst.com/posts/the-internet-of-things-is-evolving-and-security-engineers-will-need-to-keep-up-brian-russell?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Brian Russell
 - [If you buy PKI, you won't be booted out of IOT game](https://www.peerlyst.com/posts/if-you-buy-pki-you-won-t-be-booted-out-of-iot-game-madjid-nakhjiri?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Madjid Nakhjiri
+- [Links and Resources for getting started with ARM Assembly and Exploitation](https://www.peerlyst.com/posts/links-and-resources-for-getting-started-with-arm-assembly-and-exploitation-nitesh-malviya?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Nitesh Malviya‍ 
 
 Langsec
 - [Langsec Implications For Security](https://www.peerlyst.com/posts/langsec-implications-for-security?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Rob Lewis
+
+Legal
+- [NIS Directive 1148/2016 summary in a single slide](https://www.peerlyst.com/posts/nis-directive-1148-2016-summary-in-a-sigle-slide-cristian-driga?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Cristian Driga‍
+
+Management
+- [12 Essential Cybersecurity Program Management Processes](https://www.peerlyst.com/posts/12-essential-cybersecurity-program-management-processes-mesbernard-gmail-com?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By mesbernard@gmail.com‍
 
 Medical Devices
 - [A Historic Timeline of Medical Device Security Research](https://www.peerlyst.com/posts/a-historic-timeline-of-medical-device-security-research-karl-m-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Karl M.
@@ -243,6 +266,11 @@ Oracle
 - [EAS-SEC. Oracle PeopleSoft Security Configuration. Part 3: Default Accounts](https://www.peerlyst.com/posts/eas-sec-oracle-peoplesoft-security-configuration-part-3-default-accounts-nadezhda-krivdyuk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Nadine Krivdyuk
 - [Oracle ADRCI: Controls For Auto Purging Those Old Alerts](https://www.peerlyst.com/posts/oracle-adrci-controls-for-auto-puring-those-old-alerts-arthur-kettelhut?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Arthur Kettelhut
 - [ADCRI Let's create an incident package](https://www.peerlyst.com/posts/adcri-let-s-create-an-incident-package-arthur-kettelhut?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Arthur Kettelhut
+- [EAS-SEC. Oracle PeopleSoft Security Configuration. Part 4: Unnecessary Functionality](https://www.peerlyst.com/posts/eas-sec-oracle-peoplesoft-security-configuration-part-4-unnecessary-functionality-nadezhda-krivdyuk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Nadine Krivdyuk‍ 
+
+Passwords
+- [Probable-Wordlists - (up to) 20 GB of real leaked passwords sorted by popularity, not alphabetically](https://www.peerlyst.com/posts/probable-wordlists-up-to-20-gb-of-real-leaked-passwords-sorted-by-popularity-not-alphabetically-ben-berkowitz?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Ben B‍ 
+- [DPAT: New Domain Password Audit Tool](https://www.peerlyst.com/posts/dpat-new-domain-password-audit-tool-s-delano?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By S. Delano‍ 
 
 Peerlyst Website Resources
 - [A Template For Creating A Training Course On Peerlyst!](https://www.peerlyst.com/posts/a-template-for-creating-a-training-course-on-peerlyst-peerlyst?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Peerlyst
@@ -275,7 +303,8 @@ Pentesting
 - [New essential pentest tool - WHID Injector: How to Bring HID Attacks to the Next Level](https://www.peerlyst.com/posts/whid-injector-how-to-bring-hid-attacks-to-the-next-level-karl-m-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Karl M.
 - [How To Put Any Android Smartphone Into Monitor Mode Using Custom Script Without bcmon](https://www.peerlyst.com/posts/how-to-put-any-android-smartphone-into-monitor-mode-using-custom-script-without-bcmon-kali-linux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By kali linux
 - [List of public port scanner websites](https://www.peerlyst.com/posts/list-of-public-port-scanner-websites-karl-m-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Karl M.‍ 
-
+- [Pentesting on crack: Automating the Empire with the Death Star](https://www.peerlyst.com/posts/pentesting-on-crack-automating-the-empire-with-the-death-star-karl-m-1?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Karl M.‍ 
+- [Resource: Pentesting Wiki](https://www.peerlyst.com/posts/resource-pentesting-wiki-nicole-lamoureux?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Nicole Lamoureux‍
 
 Privacy
 - [Some Small Things You Can Do To Preserve a Little Privacy](https://www.peerlyst.com/posts/some-small-things-you-can-do-to-preserve-a-little-privacy-online-today-peter-stone?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Peter Stone
@@ -284,6 +313,7 @@ Privacy
 - [GDPR: Tips for Engaging Technology Resources](https://www.peerlyst.com/posts/gdpr-tips-for-engaging-technology-resources-chris-zoladz) By Chris Zoladz‍
 - [The GDPR Wiki](https://www.peerlyst.com/posts/the-gdpr-wiki-nicole-lamoureux) By Nicole Lamoureux‍
 - [GDPR: 4 Tips for addressing accountability](https://www.peerlyst.com/posts/gdpr-4-tips-for-addressing-accountability-chris-zoladz?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Chris Zoladz‍
+- [Study Shows Personal Identifiable Information Found on Resold Electronics](https://www.peerlyst.com/posts/study-shows-personal-identifiable-information-found-on-resold-electronics-eri?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By ERI‍ 
 
 Programming
 - [Guide For Programmers - How To Generate Secure Random Numbers](https://www.peerlyst.com/posts/guide-for-programmers-how-to-generate-secure-random-numbers-pyotr-a-pavlensky?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Pyotr A Pavlensky
@@ -291,6 +321,9 @@ Programming
 Ransomware
 - [WannaCry no more: ransomware worm IOC's, Tor C2 and technical analysis + SIEM rules](https://www.peerlyst.com/posts/wannacry-no-more-ransomware-worm-ioc-s-tor-c2-and-technical-analysis-siem-rules-andrii-bezverkhyi?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Andrii Bezverkhyi‍ 
 - [#WannaCry and the Rise and Fall of the Firewall](https://www.peerlyst.com/posts/wannacry-and-the-rise-and-fall-of-the-firewall-ian-tibble-seven-stones-biz?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By ian.tibble@seven-stones.biz‍ 
+
+Regex
+- [Learning how to write regular expressions - a collection of resources](https://www.peerlyst.com/posts/learning-how-to-write-regular-expressions-a-collection-of-resources-susan-parker?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Susan Parker‍
 
 Risk
 - [CISO Budget Tool: Crowdsourcing Our Way To Improved Security Management](https://www.peerlyst.com/posts/ciso-budget-tool-crowdsourcing-our-way-to-improved-security-management?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Terry Gold
@@ -349,6 +382,9 @@ SIEM
 Social Engineering
 - [Why Is social Engineering Such A Significant Security Concern](https://www.peerlyst.com/posts/why-is-social-engineering-such-a-significant-security-concern-mark-cutting?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Mark Cutting
 
+Software Development
+- [Rugged DevOps, DevSecOps, and Implementation](https://www.peerlyst.com/posts/rugged-devops-devsecops-and-implementation-threatmodeler?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By ThreatModeler‍ 
+
 Small Businesses
 - [Security Management Resources for Small Businesses](https://www.peerlyst.com/posts/security-management-resources-for-small-business-smb-sme-dawid-balut?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Dawid Balut
 - [Resource: Free Comprehensive Information Security Policy Template For Small Business(SMB/SME)](https://www.peerlyst.com/posts/resource-free-comprehensive-information-security-policy-template-for-small-business-smb-sme-claus-cramon?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon
@@ -405,6 +441,7 @@ Vulnerability Management/Disclosure
 - [Resource: An Up To Date List Of Bug Bounty Programs, Reward Systems, And Security Acknowledgments](https://www.peerlyst.com/posts/resource-an-up-to-date-list-of-bug-bounty-programs-reward-systems-security-acknowledgments?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon Houmann
 - [Implementing ERP Vulnerability Management Process: Part 1](https://www.peerlyst.com/posts/implementing-erp-vulnerability-management-process-part-1-mikhail-rakutko?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Mikhail Rakutko
 - [Implementing SAP Vulnerability Management Process. Part 3. Vulnerability Analysis](https://www.peerlyst.com/posts/implementing-sap-vulnerability-management-process-part-3-vulnerability-analysis-mikhail-rakutko?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Michael Rakutko
+- [334 zero-days were used in APT attacks since 2006](https://www.peerlyst.com/posts/334-zero-days-were-used-in-apt-attacks-since-2006-valery-marchuk?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Valery Marchuk‍ 
 
 Vulnerability Scanners
 - [Searching Intelligently with VirusTotal Intelligence Search](https://www.peerlyst.com/posts/searching-intelligently-with-virustotal-intelligence-search-abhinav-singh?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Abhinav Singh
@@ -413,6 +450,10 @@ Vulnerability Scanners
 
 Web Site Security
 - [Simply Put: The Differences Between HPKP, HSTS, And CSP.](https://www.peerlyst.com/posts/simply-put-the-differences-between-hpkp-hsts-and-csp?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) By Claus Cramon Houmann
+- [OWASP Juice Shop Vulnerable Webapp](https://www.peerlyst.com/posts/owasp-juice-shop-vulnerable-webapp-stuart-winter-tear?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Stuart Winter-Tear‍ 
+- [Climbing Mount WebAppSec – ZAP Directory Traversal](https://www.peerlyst.com/posts/climbing-mount-webappsec-zap-directory-traversal-stuart-winter-tear?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Stuart Winter-Tear‍ 
+- [Climbing Mount WebAppSec – Discovering Directories & Files with ZAP](https://www.peerlyst.com/posts/climbing-mount-webappsec-discovering-directories-and-files-with-zap-stuart-winter-tear?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By Stuart Winter-Tear‍
 
 Windows
 - [Windows 10 security wiki](https://www.peerlyst.com/posts/windows-10-security-wiki-guurhart?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resources) By Guurhart
+- [A huge list of Windows log file Event IDs for detecting lateral movement](https://www.peerlyst.com/posts/a-huge-list-of-windows-log-file-event-ids-for-detecting-lateral-movement-s-delano?utm_source=github&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_resource) By S. Delano‍ 
